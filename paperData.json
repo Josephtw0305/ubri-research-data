@@ -23,8 +23,8 @@
     "Title": "Effectiveness of Markets and Policies",
     "Year": 2020,
     "Author": "Fukuda",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 4,
@@ -32,8 +32,8 @@
     "Title": "Technological Advancement and Japanese Economy",
     "Year": 2020,
     "Author": "Fukuda",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 5,
@@ -131,7 +131,7 @@
     "Title": "How value-sensitive design can empower sustainable consumption",
     "Year": 2020,
     "Author": "Thomas Asikis, Johannes Klinglmayr, Dirk Helbing, Evangelos Pournaras",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.201418"
   },
   {
@@ -257,7 +257,7 @@
     "Title": "Market Orders",
     "Year": 2020,
     "Author": "Sukhi Jutla",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://mailchi.mp/57f21333b609/mot-white-paper"
   },
   {
@@ -393,7 +393,7 @@
     "Year": 2022,
     "Author": "Yuichi Ikeda",
     "Keywords": "Digital Designs for Money, Markets, and Social Dilemas",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 45,
@@ -581,8 +581,8 @@
     "Title": "LEAP: Leakage-Abuse Attack on Efficiently Deployable, Efficiently Searchable Encryption with Partially Known Dataset",
     "Year": 2021,
     "Author": "Jianting Ning, Xinyi Huang, Geong Sen Poh, Jiaming Yuan, Yingjiu Li, Jian Weng, Robert H. Deng",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 66,
@@ -599,8 +599,8 @@
     "Title": "UltraPIN: Inferring PIN Entries via Ultrasound",
     "Year": 2021,
     "Author": "Ximing Liu, Yingjiu Li, Robert H. Deng",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 68,
@@ -671,8 +671,8 @@
     "Title": "SPON: Enabling Resilient Inter-Ledgers Payments with an Intrusion-Tolerant Overlay",
     "Year": 2021,
     "Author": "Lucian A Trestioreanu, Cristina Nita-Rotaru, Aanchal Malhotra, Radu State",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 76,
@@ -680,8 +680,8 @@
     "Title": "Network Analysis of XRP ledger data",
     "Year": 2021,
     "Author": "Yuichi Ikeda",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 77,
@@ -851,7 +851,7 @@
     "Title": "A New Construction for Linkable Secret Handshake",
     "Year": 2020,
     "Author": "Yangguang Tian, Yingjiu Li, Robert H. Deng, Nan Li, Guomin Yang, Zheng Yang",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://academic.oup.com/comjnl/article-abstract/63/4/536/5612724"
   },
   {
@@ -1049,7 +1049,7 @@
     "Title": "Effective Cryptocurrency Regulation Through Blacklisting",
     "Year": 2021,
     "Author": "Malte Möser, Arvind Narayanan",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://maltemoeser.de/paper/blacklisting-regulation.pdf"
   },
   {
@@ -1076,8 +1076,8 @@
     "Title": "Volatility of Cryptocurrency: Evidence from Ripple’s XRP",
     "Year": 2021,
     "Author": "Shubham Anand, Meet Kathiriya, Sudhanshu Raj, RK Shyamasundar, Vishwas Patil, Sarthak Gaurav",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 121,
@@ -1085,8 +1085,8 @@
     "Title": "Blockchain Based Privacy Preserving EHR System",
     "Year": 2021,
     "Author": "Pranav Patel, R.K. Shyamasundar",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 122,
@@ -1094,8 +1094,8 @@
     "Title": "Debugging Smart Contracts for Correctness using Solidity ++",
     "Year": 2021,
     "Author": "Navaneet Ranjan, R.K. Shyamasundar",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 123,
@@ -1140,7 +1140,7 @@
     "Year": 2021,
     "Author": "R.K. Shyamasundar",
     "Keywords": "Blockchain, Technologies, Trust, Platform Choice, Security, Privacy",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 128,
@@ -1292,8 +1292,8 @@
     "Title": "Leadership Uniformity in Raft Consensus Algorithm",
     "Year": 2021,
     "Author": "Tosif, Elias, Klitos Christodoulou, Marios Touloupou, and Antonios Inglezakis",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 145,
@@ -1355,7 +1355,7 @@
     "Title": "The LegalTech Book: The Legal Technology Handbook for Investors, Entrepreneurs and FinTech Visionaries",
     "Year": 2020,
     "Author": "Susanne Chishti, Sophia Adams Bhatti, Akber Datoo, Drago Indjic",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://fintechcircle.com/legaltech-book/"
   },
   {
@@ -1444,7 +1444,7 @@
     "University": "UCL",
     "Title": "Research Anthology on Blockchain Technology in Business, Healthcare, Education, and Government",
     "Year": 2020,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Blockchain Technology in Business, Healthcare, Education, and Government, research anthology",
     "Link": "https://www.bookdepository.com/Research-Anthology-on-Blockchain-Technology-in-Business-Healthcare-Education-and-Government-Information-Resources-Management-Association/9781799853510"
   },
@@ -1454,7 +1454,7 @@
     "Title": "Blockchainging the World",
     "Year": 2020,
     "Author": "Jane Thomason",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.amazon.co.uk/Blockchainging-World-Jane-Thomason-ebook/dp/B08QGBTXNX/"
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "Paper No.": 177,
     "University": "UCL",
-    "Title": NaN,
+    "Title": null,
     "Year": 2021,
     "Author": "Niklas Bussmann, Paolo Giudici, Dimitri Marinelli, Jochen Papenbrock ",
     "Keywords": "Credit risk management, Explainable AI, Financial technologies, Similarity networks",
@@ -1714,8 +1714,8 @@
     "University": "UCL",
     "Title": "UCL CBT Discussion Paper Series No. 5 – Q4 2020",
     "Year": 2020,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "http://blockchain.cs.ucl.ac.uk/discussion-papers/"
   },
   {
@@ -1723,8 +1723,8 @@
     "University": "UCL",
     "Title": "UCL CBT Discussion Paper Series No. 4 – Q3 2020",
     "Year": 2020,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "http://blockchain.cs.ucl.ac.uk/discussion-papers/"
   },
   {
@@ -1732,8 +1732,8 @@
     "University": "UCL",
     "Title": "UCL CBT Discussion Paper Series No. 3 – Q2 2020",
     "Year": 2020,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "http://blockchain.cs.ucl.ac.uk/discussion-papers/"
   },
   {
@@ -1741,8 +1741,8 @@
     "University": "UCL",
     "Title": "UCL CBT Discussion Paper Series No. 2 – Q1 2020",
     "Year": 2020,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "http://blockchain.cs.ucl.ac.uk/discussion-papers/"
   },
   {
@@ -1750,8 +1750,8 @@
     "University": "UCL",
     "Title": "UCL CBT Discussion Paper Series No. 1 – Q4 2019",
     "Year": 2019,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "http://blockchain.cs.ucl.ac.uk/discussion-papers/"
   },
   {
@@ -1806,7 +1806,7 @@
     "Year": 0,
     "Author": "Yuichi Ikeda, Yuji Aruka,",
     "Keywords": "xrp, markets, decentralization, ",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 202,
@@ -1850,7 +1850,7 @@
     "Title": "Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers",
     "Year": 2021,
     "Author": "J. Aoyagi and Y. Ito",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808755"
   },
   {
@@ -1859,7 +1859,7 @@
     "Title": "Did the introduction of Bitcoin futures crash the Bitcoin market at the end of 2017?",
     "Year": 2021,
     "Author": "T. Hattori and R. Ishida",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://ideas.repec.org/a/eee/ecofin/v56y2021ics1062940820302096.html"
   },
   {
@@ -1868,7 +1868,7 @@
     "Title": "Security-Cost Efficiency of Competing Proof-of-Work Cryptocurrencies",
     "Year": 2022,
     "Author": "K. Kawaguchi and S. Noda",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3974376"
   },
   {
@@ -1877,7 +1877,7 @@
     "Title": "Price Stability of Cryptocurrencies as a Medium of Exchange",
     "Year": 2021,
     "Author": "T. Kikuchi, T. Onishi, and K. Ueda,",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.researchgate.net/publication/356282169_Price_Stability_of_Cryptocurrencies_as_a_Medium_of_Exchange"
   },
   {
@@ -1886,7 +1886,7 @@
     "Title": "Going Cashless: Evidence from Japan's Point Reward Program",
     "Year": 2021,
     "Author": "T. Shoji, T. Sekine, and T. Watanabe",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.centralbank.e.u-tokyo.ac.jp/wp-content/uploads/2021/11/cb-wp036.pdf"
   },
   {
@@ -1904,7 +1904,7 @@
     "Title": "A Note on Optimal Fees for Constant Function Market Makers",
     "Year": 2021,
     "Author": "Robin Fritsch\n",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://dl.acm.org/doi/10.1145/3464967.3488589"
   },
   {
@@ -1913,7 +1913,7 @@
     "Title": "Concentrated Liquidity in Automated Market Makers",
     "Year": 2021,
     "Author": "Robin Fritsch\n",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://dl.acm.org/doi/10.1145/3464967.3488590"
   },
   {
@@ -1922,8 +1922,8 @@
     "Title": "Cyclic Arbitrage in Decentralized Exchange Markets,",
     "Year": 2021,
     "Author": "Ye Wang, Yan Chen, Shuiguang Deng, Roger Wattenhofer",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 215,
@@ -1968,7 +1968,7 @@
     "Year": 2022,
     "Author": "Tim Marple",
     "Keywords": "CBDC, digital currency, policy, governance",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 220,
@@ -2128,7 +2128,7 @@
     "University": "University of Texas at Austin",
     "Title": "Qualitative Study of Participant Impressions as Simulated Patients of MediLinker—A BlockchainBased Identity Verification Application",
     "Year": 2022,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "blockchain, COVID-19, identity management personal health information, proof of concept, usability",
     "Link": "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0042-1749192.pdf"
   },
@@ -2210,7 +2210,7 @@
     "Title": "Giving an Adversary Guarantees (Or: How to Model Designated Verifier Signatures in a Composable Framework)",
     "Year": 2021,
     "Author": "Ueli Maurer, Christopher Portmann, Guilherme Rito ",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1007/978-3-030-92078-4_7"
   },
   {
@@ -2290,7 +2290,7 @@
     "University": "UCL",
     "Title": "Blockchain-based smart contracts as new governance tools for the sharing economy",
     "Year": 2021,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Co-working spaces, Urban governance, Blockchain, Smart cities, Sharing economy",
     "Link": "https://doi.org/10.1016/j.cities.2021.103325"
   },
@@ -2309,7 +2309,7 @@
     "Title": "The SEC, Digital Assets, and Game Theory",
     "Year": 2020,
     "Author": "Yuliya Guseva",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://heinonline.org/HOL/P?h=hein.journals/jcorl46&i=661"
   },
   {
@@ -2588,7 +2588,7 @@
     "Title": "Get Me out of This Payment! Bailout: An HTLC Re-routing Protocol",
     "Year": 2022,
     "Author": "Oguzhan Ersoy, Pedro Moreno-Sanchez, Stefanie Roos",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://eprint.iacr.org/2022/958"
   },
   {
@@ -2651,7 +2651,7 @@
     "Title": "How to Build a Private DAO on Ethereum",
     "Year": 2022,
     "Author": "Griffin Dunaif and Dan Boneh",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://hackmd.io/nCASdhqVQNWwMhpTmKpnKQ"
   },
   {
@@ -2669,7 +2669,7 @@
     "Title": "Ubiquitous geographic information in the emergent Metaverse",
     "Year": 2022,
     "Author": "Andy Hudson-Smith,Michael Batty",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1111/tgis.12932"
   },
   {
@@ -2678,7 +2678,7 @@
     "Title": "The role of sentiment in the US economy: 1920 to 1934",
     "Year": 2022,
     "Author": "Ali Kabiri, Harold James, John Landon-Lane, David Tuckett, Rickard Nyman",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1111/ehr.13160"
   },
   {
@@ -2687,7 +2687,7 @@
     "Title": "Token-based Insurance Solutions on Blockchain",
     "Year": 2021,
     "Author": "Simon Cousaert, Nikhil Vadgama, Jiahua Xu",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://arxiv.org/abs/2109.07902"
   },
   {
@@ -2697,7 +2697,7 @@
     "Year": 2022,
     "Author": "Vytautas Tumas, Sean Rivera, Damien Magoni, Radu State",
     "Keywords": "Blockchain, broadcast, multicast, routing, XRP",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 301,
@@ -2706,15 +2706,15 @@
     "Year": 2022,
     "Author": "Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, Radu State",
     "Keywords": "Domain-specific security and privacy architectures; Security protocols",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 302,
     "University": "University of Oregon",
     "Title": "A Secure EMR Sharing System With Tamper Resistance and Expressive Access Control",
     "Year": 2023,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://doi.org/10.1109/TDSC.2021.3126532"
   },
   {
@@ -2722,8 +2722,8 @@
     "University": "University of Oregon",
     "Title": "Accountable and Fine-Grained Controllable Rewriting in Blockchains",
     "Year": 2022,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://doi.org/10.1109/TIFS.2022.3217742"
   },
   {
@@ -2731,8 +2731,8 @@
     "University": "University of Oregon",
     "Title": "A Robustness-Assured White-Box Watermark in Neural Networks",
     "Year": 2023,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://doi.org/10.1109/TDSC.2023.3242737"
   },
   {
@@ -2740,8 +2740,8 @@
     "University": "University of Oregon",
     "Title": "M-EDESE: Multi-Domain, Easily Deployable, and Efficiently Searchable Encryption",
     "Year": 2022,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://link.springer.com/chapter/10.1007/978-3-031-21280-2_34"
   },
   {
@@ -2759,7 +2759,7 @@
     "Title": "Orion: Zero Knowledge Proof with Linear Prover Time",
     "Year": 2022,
     "Author": "Tiancheng Xie, Yupeng Zhang & Dawn Song",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1007/978-3-031-15985-5_11"
   },
   {
@@ -2777,7 +2777,7 @@
     "Title": "Control of decentralized autonomous organizations",
     "Year": 2023,
     "Author": "Ian Appel, Jillian Grennan",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.aeaweb.org/articles?id=10.1257/pandp.20231119"
   },
   {
@@ -2795,7 +2795,7 @@
     "Title": "The Crypto Carry Trade",
     "Year": 2022,
     "Author": "Nicolas Christin, Bryan R. Routledge, Kyle Soska, Ariel Zetlin-Jones",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.andrew.cmu.edu/user/azj/files/CarryTrade.v1.0.pdf"
   },
   {
@@ -2812,7 +2812,7 @@
     "University": "CMU",
     "Title": "Misbehavior and Account Suspension in an Online Financial Communication Platform",
     "Year": 2023,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Online abuse, Finance, OSN, Trust and safety, Toxicity detection",
     "Link": "https://doi.org/10.1145/3543507.3583385"
   },
@@ -2840,7 +2840,7 @@
     "Title": "Charlotte: A Web of Composable Authenticated Distributed Data Structures",
     "Year": 2023,
     "Author": "Isaac Sheff, Xinwen Wang, Kushal Babel, Haobin Ni, Robbert van Renesse, Andrew C. Myers",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1145/3607534"
   },
   {
@@ -2858,7 +2858,7 @@
     "Title": "Securing smart contracts with information flow",
     "Year": 2020,
     "Author": "Ethan Cecchetti, Siqiu Yao, Haobin Ni, Andrew C. Myers",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://par.nsf.gov/biblio/10158698"
   },
   {
@@ -2867,7 +2867,7 @@
     "Title": "SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols",
     "Year": 2022,
     "Author": "Jiahua Xu, Krzysztof Paruch, Simon Cousaert, Yebo Feng",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1145/3570639"
   },
   {
@@ -2903,7 +2903,7 @@
     "Title": "Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling",
     "Year": 2022,
     "Author": "Sandip Ghosal & R. K. Shyamasundar",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1007/978-3-031-23690-7_12"
   },
   {
@@ -2921,7 +2921,7 @@
     "Title": "How Should We Regulate Cryptocurrencies via Consensus?: A Strategic Framework for Optimal Legal Transaction Throughput",
     "Year": 2023,
     "Author": "Aditya Ahuja, Vinay Ribeiro, Ranjan Pal",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1145/3567593"
   },
   {
@@ -2939,7 +2939,7 @@
     "Title": "Towards inclusive and sustainable infrastructure development through blockchain-enabled asset tokenization: An exploratory case study.",
     "Year": 2022,
     "Author": "Y Tian, R E Minchin, K Chung, J Woo and P Adriaens",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1088/1757-899X/1218/1/012040"
   },
   {
@@ -2948,7 +2948,7 @@
     "Title": "Blockchain-enabled tokenization for sustainable and inclusive infrastructure investment",
     "Year": 2022,
     "Author": "Yifeng Tian, Chaofeng Wang, Ashish Asutosh, Junghoon Woo, Peter Adriaens",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.48550/arXiv.2208.04709"
   },
   {
@@ -2957,7 +2957,7 @@
     "Title": "The future of blockchain-enabled tokenization in infrastructure investment and development: A Delphi-based scenario analysis",
     "Year": 2022,
     "Author": "Yifeng Tian, Chaofeng Wang, Junghoon Woo, Zheng Lu, Peter Adriaens",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.48550/arXiv.2208.04710"
   },
   {
@@ -2966,7 +2966,7 @@
     "Title": "Data Fusion, Hedonic Pricing, and Blockchains: Lowering Investment Barriers for Sustainable Infrastructure",
     "Year": 2022,
     "Author": "Chung, K.H. and P. Adriaens",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://dx.doi.org/10.7302/6119"
   },
   {
@@ -2975,7 +2975,7 @@
     "Title": "Light Clients for Lazy Blockchains",
     "Year": 2022,
     "Author": "Ertem Nusret Tas, Dionysis Zindros, Lei Yang, and David Tse",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.48550/arXiv.2203.15968"
   },
   {
@@ -2984,7 +2984,7 @@
     "Title": "Proofs of Proof-of-Stake with Sublinear Complexity",
     "Year": 2022,
     "Author": "Shresth Agrawal, Joachim Neu, Ertem Nusret Tas, Dionysis Zindros",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.48550/arXiv.2209.08673"
   },
   {
@@ -2993,7 +2993,7 @@
     "Title": "Accountable Safety for Rollups",
     "Year": 2022,
     "Author": "Ertem Nusret Tas, John Adler, Mustafa Al-Bassam, Ismail Khoffi, David Tse, Nima Vaziri",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.48550/arXiv.2210.15017"
   },
   {
@@ -3002,7 +3002,7 @@
     "Title": "Goldfish: No More Attacks on Proof-of-Stake Ethereum",
     "Year": 2022,
     "Author": "Francesco D'Amato, Joachim Neu, Ertem Nusret Tas, David Tse",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.48550/arXiv.2209.03255"
   },
   {
@@ -3011,7 +3011,7 @@
     "Title": "Two Attacks On Proof-of-Stake GHOST/Ethereum",
     "Year": 2022,
     "Author": "Joachim Neu, Ertem Nusret Tas, David Tse",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1145/3560829.3563560"
   },
   {
@@ -3020,7 +3020,7 @@
     "Title": "BitcoinEnhanced Proof-of-Stake Security: Possibilities and Impossibilities",
     "Year": 2023,
     "Author": "Ertem Nusret Tas, David Tse, Fangyu Gai, Sreeram Kannan, Mohammad Ali Maddah-Ali, Fisher Yu",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.computer.org/csdl/proceedings-article/sp/2023/933600b727/1Js0Ei5Ok4U"
   },
   {
@@ -3029,7 +3029,7 @@
     "Title": "Cryptoeconomic Security for Data Availability Committees",
     "Year": 2022,
     "Author": "Ertem Nusret Tas and Dan Boneh",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "http://fc23.ifca.ai/preproceedings/19.pdf"
   },
   {
@@ -3055,8 +3055,8 @@
     "University": "Georgetown",
     "Title": "Digital assets : pricing, allocation and regulation",
     "Year": 2023,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://www.worldcat.org/zh-tw/title/1389558212?oclcNum=1389558212"
   },
   {
@@ -3065,16 +3065,16 @@
     "Title": "Blockchain and Financial Inclusion",
     "Year": 2017,
     "Author": "McDonough School of Business",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://georgetown.app.box.com/s/4r75ey9zsff0jjjr4rmf1rkdgp77y8r1"
   },
   {
     "Paper No.": 342,
     "University": "Georgetown",
-    "Title": NaN,
+    "Title": null,
     "Year": 2021,
     "Author": "Christopher Matturri",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://dcfintechweek.org/wp-content/uploads/2021/10/Chris-Matturri_Institutionalization-of-Digital-Assets-Chris-Matturri-Georgetown-University-CFMP.pdf"
   },
   {
@@ -3101,7 +3101,7 @@
     "Title": "Compositional Verification of Smart Contracts Through Communication Abstraction",
     "Year": 2021,
     "Author": "Scott Wesley, Maria Christakis, Jorge A. Navas, Richard Trefler, Valentin Wüstholz & Arie Gurfinkel",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1007/978-3-030-88806-0_21"
   },
   {
@@ -3110,7 +3110,7 @@
     "Title": "Verifying SOLIDITY Smart Contracts via Communication Abstraction in SMARTACE",
     "Year": 2022,
     "Author": "Scott Wesley, Maria Christakis, Jorge A. Navas, Richard Trefler, Valentin Wüstholz & Arie Gurfinkel",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1007/978-3-030-94583-1_21"
   },
   {
@@ -3155,7 +3155,7 @@
     "Title": "Regulation of Cryptoassets (2nd edition)",
     "Year": 2022,
     "Author": "Carol Goforth, Yuliya Guseva",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://faculty.westacademic.com/Book/Detail/339461"
   },
   {
@@ -3164,7 +3164,7 @@
     "Title": "When the Means Undermine the End: The Leviathan of Securities Law and Enforcement in Digital-Asset Markets",
     "Year": 2022,
     "Author": "Yuliya Guseva",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://heinonline.org/HOL/Page?handle=hein.journals/sjblp5&div=4&g_sent=1&casa_token=&collection=journals"
   },
   {
@@ -3173,7 +3173,7 @@
     "Title": "Digital Assets and Regulatory Fragmentation: The SEC versus the CFTC",
     "Year": 2022,
     "Author": "Yuliya Guseva & Irena Hutton",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249503"
   },
   {
@@ -3181,8 +3181,8 @@
     "University": "Fundacao Getulio Vargas",
     "Title": "Functional classification of bitcoin addresses",
     "Year": 2023,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://www.sciencedirect.com/science/article/pii/S0167947322002675"
   },
   {
@@ -3271,7 +3271,7 @@
     "University": "IIIT-H",
     "Title": "Effects of Spectral Normalization in Multi-agent Reinforcement Learning",
     "Year": 2023,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Spectral Normalization, MARL, Multi-Agent Reinforcement Learning, Optimization",
     "Link": "https://doi.org/10.48550/arXiv.2212.05331"
   },
@@ -3308,7 +3308,7 @@
     "Title": "Blockchain-enabled Secure Communication Mechanism for IoT-driven Personal Health Records",
     "Year": 2021,
     "Author": "Mohammad Wazid, Ashok Kumar Das, Youngho Park",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1002/ett.4421"
   },
   {
@@ -3352,7 +3352,7 @@
     "University": "IIIT-H",
     "Title": "Fortifying Smart Transportation Security Through Public Blockchain",
     "Year": 2022,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Access control and key management, blockchain, intelligent transportation system (ITS), security, vehicular network.",
     "Link": "https://ieeexplore.ieee.org/document/9709886"
   },
@@ -3361,7 +3361,7 @@
     "University": "IIIT-H",
     "Title": "BPPS:Blockchain-Enabled Privacy-Preserving Scheme for Demand-Response Management in Smart Grid Environments",
     "Year": 2022,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Security,Blockchains,Authentication,Reliability,Protocols,Smart grids,Privacy",
     "Link": "https://ieeexplore.ieee.org/document/9744547"
   },
@@ -3434,7 +3434,7 @@
     "Title": "Post Quantum Lattice-Based Secure Framework using Aggregate Signature for Ambient Intelligence Assisted Blockchain-Based IoT Applications",
     "Year": 2023,
     "Author": "Prithwi Bagchi; Basudeb Bera; Ashok Kumar Das; Sachin Shetty; Pandi Vijayakumar; Marimuthu Karuppiah",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://ieeexplore.ieee.org/abstract/document/10070394"
   },
   {
@@ -3443,7 +3443,7 @@
     "Title": "Secure cloud-based data storage scheme using postquantum integer lattices-based signcryption for IoT applications",
     "Year": 2022,
     "Author": "Dharminder Dharminder, Uddeshaya Kumar, Ashok Kumar Das, Basudeb Bera, Debasis Giri, Sajjad Shaukat Jamal, Joel J. P. C. Rodrigues",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1002/ett.4540"
   },
   {
@@ -3451,8 +3451,8 @@
     "University": "IIIT-H",
     "Title": "Post-Quantum Secure Identity-Based Encryption Scheme using Random Integer Lattices for IoT-enabled AI Applications",
     "Year": 2022,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://doi.org/10.1155/2022/5498058"
   },
   {
@@ -3469,8 +3469,8 @@
     "University": "University of Pennsylvania",
     "Title": "Blockchain + IoT sensor network to measure, evaluate and incentivize personal environmental accounting and efficient energy use in indoor spaces",
     "Year": 2023,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://doi.org/10.1016/j.apenergy.2022.120443"
   },
   {
@@ -3478,8 +3478,8 @@
     "University": "University of Pennsylvania",
     "Title": "The Global Challenge of Digital Asset Regulation",
     "Year": 0,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://bdap.wharton.upenn.edu/cpi-regtech-the-global-challenge-of-digital-asset-regulation/"
   },
   {
@@ -3487,8 +3487,8 @@
     "University": "University of Pennsylvania",
     "Title": "Decentralized Autonomous Organization Toolkit",
     "Year": 0,
-    "Author": NaN,
-    "Keywords": NaN,
+    "Author": null,
+    "Keywords": null,
     "Link": "https://bdap.wharton.upenn.edu/decentralized-autonomous-organizations-toolkit-released/"
   },
   {
@@ -3569,7 +3569,7 @@
     "Title": "Developing a Novel Approach to Calculating the Crypto Asset Carbon Footprint",
     "Year": 2022,
     "Author": "Thomas Puschmann, Valentyn Khmarskyi",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.merlin.uzh.ch/contributionDocument/download/14978"
   },
   {
@@ -3578,7 +3578,7 @@
     "Title": "Sustainable Digital Finance: The Role of FinTech, InsurTech & Blockchain for Shaping the World for the Better",
     "Year": 2021,
     "Author": "Thomas Puschmann, Larry Leifer",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://15962d61-999f-45ee-b3ccd525dc175190.filesusr.com/ugd/36c425_132a63e0c31b42abaf3ebb32c810927a.pdf"
   },
   {
@@ -3587,7 +3587,7 @@
     "Title": "The landscape of Blockchain research: impacts and opportunities",
     "Year": 2021,
     "Author": "Hsing Kenneth Cheng, Daning Hu, Thomas Puschmann & J. Leon Zhao",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://link.springer.com/article/10.1007/s10257-021-00544-1"
   },
   {
@@ -3596,7 +3596,7 @@
     "Title": "Developing a Taxonomy for Sustainable Digital Finance",
     "Year": 2021,
     "Author": "Thomas Puschmann, Sayaka Shiba",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://aisel.aisnet.org/icis2021/is_sustain/is_sustain/6/"
   },
   {
@@ -3614,7 +3614,7 @@
     "Title": "The impact of blockchain on business models in banking",
     "Year": 2020,
     "Author": "Viktoria Rajnak, Thomas Puschmann",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://link.springer.com/article/10.1007/s10257-020-00468-2"
   },
   {
@@ -3677,7 +3677,7 @@
     "Title": "Técnicas de compressão de chaves para criptossistemas baseados em isogenias",
     "Year": 2022,
     "Author": "Gustavo H. M. Zanon, Marcos A. Simplicio Jr.",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://sol.sbc.org.br/index.php/sbseg_estendido/article/view/21692"
   },
   {
@@ -3713,7 +3713,7 @@
     "Title": "A bidirectional LSTM model for cryptocurrency prices forecasting",
     "Year": 2022,
     "Author": "GUSTAVO FRANZENER GONÇALVES DA SILVA, LEANDRO DOS SANTOS MACIEL",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://submissao.semead.com.br/25semead/anais/arquivos/975.pdf?The"
   },
   {
@@ -3749,7 +3749,7 @@
     "Title": "Cryptoasset networks: Flows and regular players in Bitcoin and XRP",
     "Year": 2022,
     "Author": "Hideaki Aoyama, Yoshi Fujiwara, Yoshimasa Hidaka, Yuichi Ikeda",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1371/journal.pone.0273068"
   },
   {
@@ -3766,7 +3766,7 @@
     "University": "Kyoto University",
     "Title": "First Demonstration Experiment for Energy Trading System EDISON-X Using the XRP Ledger",
     "Year": 2022,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "energy trading system, blockchain, token, renewable energy, demonstration\n experiment, hypergraph, persistent homology",
     "Link": "https://doi.org/10.48550/arXiv.2212.02044"
   },
@@ -3776,7 +3776,7 @@
     "Title": "Projecting XRP price burst by correlation tensor spectra of transaction networks",
     "Year": 2023,
     "Author": "Abhijit Chakraborty, Tetsuo Hatsuda, Yuichi Ikeda",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1038/s41598-023-31881-5"
   },
   {
@@ -3794,7 +3794,7 @@
     "Title": "Blockchain Applications in the Energy Industry",
     "Year": 2022,
     "Author": "Soheil Saraji, Christelle Khalaf",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.4018/978-1-7998-7927-5.ch008"
   },
   {
@@ -3803,7 +3803,7 @@
     "Title": "Blockchain Fundamentals for Web 3.0",
     "Year": 2022,
     "Author": "Mary C. Lacity, Steven C. Lupien",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.amazon.com/Blockchain-Fundamentals-Web-Mary-Lacity-ebook/dp/B0BLZQVZ26/ref=sr_1_1?crid=BNKTRLIIN9SV&keywords=steven+lupien&qid=1670881681&sprefix=Lupien%2Caps%2C89&sr=8-1"
   },
   {
@@ -3830,7 +3830,7 @@
     "Title": "When the Means Undermine the End: The Leviathan of Securities Law and Enforcement in Digital-Asset Markets",
     "Year": 2022,
     "Author": "Yuliya Guseva",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://heinonline.org/HOL/Page?handle=hein.journals/sjblp5&div=4&g_sent=1&casa_token=&collection=journals"
   },
   {
@@ -3853,12 +3853,12 @@
   },
   {
     "Paper No.": "Please select papers from the UBRI Highlight report starting from number 429. Numbers 1 to 428 have already been assessed in 2022 or 2023.",
-    "University": NaN,
-    "Title": NaN,
+    "University": null,
+    "Title": null,
     "Year": 0,
-    "Author": NaN,
-    "Keywords": NaN,
-    "Link": NaN
+    "Author": null,
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 429,
@@ -3902,7 +3902,7 @@
     "Title": "A Lower Bound on the Length of Signatures Based on Group Actions and Generic Isogenies",
     "Year": 2023,
     "Author": "Dan Boneh, Jiaxin Guan, Mark Zhandry",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1007/978-3-031-30589-4_18"
   },
   {
@@ -3938,7 +3938,7 @@
     "Title": "On the Rise of FinTechs: Credit Scoring Using Digital Footprints",
     "Year": 2020,
     "Author": "Tobias Berg, Valentin Burg, Ana Gombović, Manju Puri",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1093/rfs/hhz099"
   },
   {
@@ -3992,7 +3992,7 @@
     "Title": "Syncpcn/psyncpcn: Payment channel networks without blockchain synchrony",
     "Year": 2023,
     "Author": "Oguzhan Ersoy, Jérémie Decouchant, Satwik Prabhu Kumble, Stefanie Roos",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1145/3558535.3559779"
   },
   {
@@ -4010,7 +4010,7 @@
     "Title": "Get Me out of This Payment! Bailout: An HTLC Re-routing Protocol",
     "Year": 2023,
     "Author": "O ̆guzhan Ersoy, Pedro Moreno-Sanchez, Stefanie Roos",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://fc23.ifca.ai/preproceedings/94.pdf"
   },
   {
@@ -4019,7 +4019,7 @@
     "Title": "Extras and Premiums: Local PCN Routing With Redundancy and Fees",
     "Year": 2023,
     "Author": "Yu Shen, O ̆guzhan Ersoy, Stefanie Roos",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://fc23.ifca.ai/preproceedings/93.pdf"
   },
   {
@@ -4055,7 +4055,7 @@
     "Title": "Sustainable Oil and Gas Using Blockchain",
     "Year": 2023,
     "Author": "Soheil Saraji, Si Chen",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://books.google.ca/books?hl=zh-TW&lr=&id=kha_EAAAQBAJ&oi=fnd&pg=PR5&dq=Sustainable+Oil+and+Gas+Using+Blockchain&ots=VMu8zhy0uM&sig=_YdYARkrd7vNcCxNDQ8UDtqSmpE&redir_esc=y#v=onepage&q=Sustainable%20Oil%20and%20Gas%20Using%20Blockchain&f=false"
   },
   {
@@ -4064,7 +4064,7 @@
     "Title": "Public Verification for Private Hash Matching",
     "Year": 2023,
     "Author": "Sarah Scheffler, Anunay Kulshrestha, Jonathan Mayer",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1109/SP46215.2023.00119"
   },
   {
@@ -4091,7 +4091,7 @@
     "Title": "Account Verification on Social Media: User Perceptions and Paid Enrollment",
     "Year": 2023,
     "Author": "Madelyne Xiao, Mona Wang, Anunay Kulshrestha, Jonathan Mayer",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-madelyne"
   },
   {
@@ -4118,7 +4118,7 @@
     "Title": "Blockchain Private Pools and Price Discovery",
     "Year": 2023,
     "Author": "Agostino Capponi, Ruizhe Jia, Ye Wang",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1257/pandp.20231030"
   },
   {
@@ -4128,7 +4128,7 @@
     "Year": 2024,
     "Author": "Yeon Joo Lee, Hobin Jang, Sujung Jo, GyeHyun Jang, Geontae Noh, Ik Rae Jeong",
     "Keywords": "CBDC(Central Bank Digital Currency), Scalability, Cross-Shard Transaction, Reinforcement Learning",
-    "Link": NaN
+    "Link": null
   },
   {
     "Paper No.": 459,
@@ -4145,7 +4145,7 @@
     "Title": "Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution",
     "Year": 2024,
     "Author": "Zhe Ye, Ujval Misra, Jiajun Cheng, Wenyang Zhou, Dawn Song",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://arxiv.org/pdf/2212.05219"
   },
   {
@@ -4163,7 +4163,7 @@
     "Title": "Digital Collateral",
     "Year": 2024,
     "Author": "Paul Gertler, Brett Green, Catherine Wolfram",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjae003/7588833"
   },
   {
@@ -4252,7 +4252,7 @@
     "University": "University of Toronto",
     "Title": "BAKUP: Automated, Flexible, and Capital-Efficient Insurance Protocol for Decentralized Finance",
     "Year": 2023,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "smart contract, decentralized finance, decentralized insurance, risk management, capital efficiency",
     "Link": "https://www.eecg.utoronto.ca/~veneris/ICBC242.pdf"
   },
@@ -4262,7 +4262,7 @@
     "Title": "DEEPER : A shared liquidity decentralized exchangedesign for low trading volume tokens to enhance average liquidity",
     "Year": 2024,
     "Author": "Srisht Fateh Singh, Panagiotis Michalopoulos, Andreas Veneris",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doi.org/10.1002/nem.2261"
   },
   {
@@ -4522,7 +4522,7 @@
     "University": "IIIT Hyderabad",
     "Title": "An access control scheme in IoT-enabled Smart-Grid systems using blockchain and PUF",
     "Year": 2023,
-    "Author": NaN,
+    "Author": null,
     "Keywords": "Internet of Things (IoT), Blockchain, Smart power grids,Authentication, Security, Key agreement",
     "Link": "https://pdf.sciencedirectassets.com/318491/1-s2.0-S2542660523X0002X/1-s2.0-S2542660523000318/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFEaCXVzLWVhc3QtMSJHMEUCIFSfoLgyO3%2F6cRsyNj3aN%2BTX4OZ8heX2f4m%2BSoh%2BCFu1AiEA4bl5d1nFq2DrlTdmucws5y2fpgUoKOUrVu3gxGXX6HEqswUIGRAFGgwwNTkwMDM1NDY4NjUiDGCjzkXe0%2FLymWMJHyqQBW74vkY0m1xNk0WZpJ6ZCOUBk4Adyxl4i0DZQHMHQJvoNFYHYogciRV%2F%2FAQVryg%2BRNemdSKWKpPpHhULNeIFlzjdjuZX7TVZgHSmxJhga8prWW6W3RxWRjkwvYUjazL5yD3BwzaSF8dFeTZmEGL%2Fa965KId3gagZVAxmhkixExfB9X5ocyQfUbmAbDkUBOxfNOKM9CcKpElvlyYE%2FKdq9LzWTmfGERfN2VYFBufLaIeOYTdV%2Ftboky%2BVumaNqeOX%2BUPCUOuXNxel1XWA%2FBL1xddBIGXVZkm%2F9SgEyZVsKkYH6i613HEEtQnV6KySv2P%2BrK4u3p7oA7G1KrywUvrVtkQEZH%2Bc6qALvMLXRXEP54x9SA8C5d7degh4P1BJV%2Bba2kb6IB7OTGXsp8mQ0YqLXjIiitnPUNb0NMomeE1sdu730Iel%2FsrqJ1qmLwxCggDJoBj48L2aYXQFj44h1BriTLiTxnIavQLSpFrFU%2BoPnK2eZezRiCjkJhXVbifPwUsArRdVNrLgt1fEdUc%2Fq6Fgf3utrlQ0ZsHYZgwQIiyqRTGYVdRkdWz%2BZU%2FGHiye8NEPFJo0kPMMpvXGrMIrME8hubdkQMKjAH5Wq553%2FyJ%2BO7B2LsuUjD8%2F6ITwvkdptlK2H4MJ0iW9EPpNB2C2dwYlS9l1jS5JSew%2BSQl3ns%2FMERo8BteZ9pbRuqljFbYomr6wBfiCJR0nc43fiib%2BahScqJ6u1cyoyDHUpYn35s58LsFXSfBNuMkSizxCU1RI400YWBYjkBjMYEAcpEyqD0%2FAtkxXAi0EAWJnfESpNc2FRFWOC0svPAJrPVlV2%2BkSELL3MErBGFbgpHVV%2FuYSvWK0xpTfHAtgTZBZ2N2MtjW3%2B34aMLuhsLQGOrEB2TuXCJxcCDvX137fAD98889TcsYfp8NEo3iwBKwsj0C5%2BzmkfiOaFJoxatJCJEzZL5r7AY5LoYHrHiYnnGB0yePop5gHtYI6Et%2F67lyIn2oNrtx6HsHSIejDxIWp3PSh6Y%2Bo7dWUDF9YH6BBGyf350I4DAdyi8uHvHk6%2Bb0gq7bR5DTveKSKPLiuIazDTs61EMjslTJv%2B%2BOsQJhH1H%2FclIJPoZ5ESoPTD7QiGnYVwO21&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240708T174012Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYW3G5EYHK%2F20240708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9920919938ad790c9f355b067fd3a58729a31555e65414d6838391ceee4c91c0&hash=827ff4af5ffea9cfa497b87e1c8abf11cfb40488019d166293330521fed75d4e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2542660523000318&tid=spdf-a3e70991-c1be-4166-9188-acb49c69c72d&sid=dbcb41bd6049d34fed3ba7375a876f03313agxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=05045c0657570b0504&rr=8a01dba8ebe193d7&cc=gb"
   },
@@ -4541,7 +4541,7 @@
     "Title": "On the Feasibility of Profiling Electric Vehicles through Charging Data",
     "Year": 2023,
     "Author": "Ankit Gangwal, Aakash Jain, and Mauro Conti",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://arxiv.org/pdf/2210.05433"
   },
   {
@@ -4622,8 +4622,8 @@
     "Title": "Digital Finance and Tokenisation",
     "Year": 2024,
     "Author": "Robert Walters",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 517,
@@ -4631,8 +4631,8 @@
     "Title": "Digital Finance Law: common and civil law comparison",
     "Year": 0,
     "Author": "Robert Walters",
-    "Keywords": NaN,
-    "Link": NaN
+    "Keywords": null,
+    "Link": null
   },
   {
     "Paper No.": 518,
@@ -4649,16 +4649,16 @@
     "Title": "Commercial and Arbitration Law of the Digital Economy - A Comparison of Asian, European and North American Jurisdictions",
     "Year": 2024,
     "Author": "Robert Walters",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://www.routledge.com/Commercial-and-Arbitration-Law-of-the-Digital-Economy-A-Comparison-of-Asian-European-and-North-American-Jurisdictions/Walters/p/book/9781032443287"
   },
   {
     "Paper No.": 520,
-    "University": NaN,
+    "University": null,
     "Title": "Does price efficiency improve portfolio allocation? An empirical evidence for cryptocurrencies",
     "Year": 2023,
     "Author": "EAV de Salis, L Maciel",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://doity.com.br/media/doity/submissoes/artigo-7331fb2454698062dd52fb46c62d91e778ebfdd9-arquivo.pdf"
   },
   {
@@ -4712,7 +4712,7 @@
     "Title": "DeFi vs TradFi: Valuation Using Multiples and Discounted Cash Flow",
     "Year": 2022,
     "Author": "Teng Andrea Xu, Jiahua Xu, Kristof Lommers",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://arxiv.org/pdf/2210.16846"
   },
   {
@@ -4739,7 +4739,7 @@
     "Title": "The future of blockchain-enabled tokenization in infrastructure investment and development: A Delphi-based scenario analysis",
     "Year": 2022,
     "Author": "Yifeng Tian, Chaofeng Wang, Junghoon Woo, Zheng Lu, and Peter Adriaens",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://arxiv.org/pdf/2208.04710"
   },
   {
@@ -4757,7 +4757,7 @@
     "Title": "Restoring Trust and Managing Risks",
     "Year": 2023,
     "Author": "Bianca Kremer",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://bdap.wharton.upenn.edu/wp-content/uploads/2023/06/Restoring-Trust-Managing-Risks-Wharton-BDAP-Reg@Tech-9.pdf"
   },
   {
@@ -4766,7 +4766,7 @@
     "Title": "Blockchain Governance in the Wild",
     "Year": 2024,
     "Author": "Primavera Di Filippi, Gina Pieters,  Joshua Tan, and Kevin Werbach",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://cryptoeconomicsystems.pubpub.org/pub/blockchain-governance-wild/release/1#:~:text=There%20are%20two%20domains%20of,distinctive%20characteristics%20and%20political%20implications."
   },
   {
@@ -4775,7 +4775,7 @@
     "Title": "Digital Asset Regulation: Peering into the Past, Peering into the Future",
     "Year": 2023,
     "Author": "Kevin Werbach",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://scholarship.law.wm.edu/wmlr/vol64/iss4/9/"
   },
   {
@@ -4811,7 +4811,7 @@
     "Title": "Asymmetric distributed trust",
     "Year": 2024,
     "Author": "Orestis Alpos · Christian Cachin · Björn Tackmann · Luca Zanolini",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://link.springer.com/article/10.1007/s00446-024-00469-1"
   },
   {
@@ -4937,7 +4937,7 @@
     "Title": "A multistep strategy for polynomial system solving over finite fields and a new algebraic attack on the stream cipher Trivium",
     "Year": 2024,
     "Author": "Roberto La Scala, Federico Pintore, Sharwan K. Tiwari, Andrea Visconti",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://arxiv.org/pdf/2304.07820"
   },
   {
@@ -4955,7 +4955,7 @@
     "Title": "Cutting the GRASS: Threshold GRoup Action Signature Schemes",
     "Year": 2024,
     "Author": "Michele Battagliola, Giacomo Borin, Alessio Meneghetti, Edoardo Persichetti",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://eprint.iacr.org/2023/859.pdf"
   },
   {
@@ -4982,7 +4982,7 @@
     "Title": "Searchable encryption with randomized ciphertext and randomized keyword search",
     "Year": 2024,
     "Author": "Marco Calderini, Riccardo Longo, Massimiliano Sala, Irene Villa",
-    "Keywords": NaN,
+    "Keywords": null,
     "Link": "https://eprint.iacr.org/2022/945.pdf"
   },
   {
