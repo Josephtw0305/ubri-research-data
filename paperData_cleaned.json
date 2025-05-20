@@ -307,7 +307,7 @@
   },
   {
     "Paper No.": 35,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Amazon Biobank: sustainable development built upon rainforest's biodiversity",
     "Year": 2021,
     "Author": "Leonardo Kimura, Ewerton Andrade, Tereza Carvalho, Marcos Simplicio Junior",
@@ -316,7 +316,7 @@
   },
   {
     "Paper No.": 36,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Torrente, a micropayment based Bittorrent extension to mitigate free riding",
     "Year": 2021,
     "Author": "Felipe Shiaraishi, Vitor Perles, Hector Yassuda, Leonardo Kimura, Ewerton Andrade, Marcos Simoplicio Junior",
@@ -325,7 +325,7 @@
   },
   {
     "Paper No.": 37,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Amazon Biobank - A community-based genetic database",
     "Year": 2021,
     "Author": "Leonardo Kimura, Ewerton Andrade, Tereza Carvalho, Marcos Simplicio Junior",
@@ -334,7 +334,7 @@
   },
   {
     "Paper No.": 38,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Domain Transparency: Improved Auditability for Certificate Transparency Services",
     "Year": 2021,
     "Author": "Fernando Matsumoto, Jonatas Viana da Silva, Marcos Simplicio Junior",
@@ -1171,7 +1171,7 @@
   },
   {
     "Paper No.": 131,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Impacts of channel composition on consortium Hyperledger Fabric blockchain performance",
     "Year": 2021,
     "Author": "Marco Marques, Charles Miers",
@@ -1180,7 +1180,7 @@
   },
   {
     "Paper No.": 132,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Analysis of the impacts of DoS attacks on Blockchain Hyperledger hosted on virtual machines",
     "Year": 2021,
     "Author": "Jaoao Henrique Battisti, Charles Miers",
@@ -1189,7 +1189,7 @@
   },
   {
     "Paper No.": 133,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Container Allocation and Deallocation Traceability using Docker Swarm with Consortium Hyperledger Blockchain",
     "Year": 2021,
     "Author": "Marco Marques, Charles Miers, Marcos Simplicio Junior",
@@ -1198,7 +1198,7 @@
   },
   {
     "Paper No.": 134,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "A novel blockchain protocol for selecting microservices providers and auditing contracts",
     "Year": 2021,
     "Author": "Wilton Jaciel Loch, Guilhereme Piegas Koslovski, Mauricio Pillon, Charles Miers, Marcelo Pasin",
@@ -3619,7 +3619,7 @@
   },
   {
     "Paper No.": 403,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Blockchain aplicado à rastreabilidade da cadeia produtiva do cacau da Amazônia",
     "Year": 2022,
     "Author": "Rodrigo Augusto Girani Tejos, Tereza Cristina Melo de Brito Carvalho, Marcos Antonio Simplicio Júnior, Bruno Justen Santos, Ismael Nobre",
@@ -3628,7 +3628,7 @@
   },
   {
     "Paper No.": 404,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Amazon Biobank: a collaborative genetic database for bioeconomy development",
     "Year": 2023,
     "Author": "Leonardo T. Kimura, Ewerton R. Andrade, Ismael Nobre, Carlos A. Nobre, Bruno A. S. de Medeiros, Diego M. Riaño-Pachón, Felipe K. Shiraishi, Tereza C. M. B. Carvalho & Marcos A. Simplicio Jr.",
@@ -3637,7 +3637,7 @@
   },
   {
     "Paper No.": 405,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Logs Transparentes: transparência e auditabilidade usando estruturas de dados verificáveis",
     "Year": 2022,
     "Author": "Leonardo T. Kimura, Stephanie M. Urashima, Guilherme Fumagali, Gustavo C. Bastos, Yeda R. Venturini, Marcos A. Simplício Jr.",
@@ -3646,7 +3646,7 @@
   },
   {
     "Paper No.": 406,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Event2Ledger: Container traceability using Docker Swarm and consortium Hyperledger blockchain",
     "Year": 2022,
     "Author": "Marco A. Marques, Marcos A. Simplício Jr., Charles Christian Miers",
@@ -3655,7 +3655,7 @@
   },
   {
     "Paper No.": 407,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Resistance analysis of virtual machine based on Ethereum consortium blockchain networks against internal DoS attacks",
     "Year": 2022,
     "Author": "João H. F. Battisti, Guilherme P. Koslovski, Maurício A. Pillon, Charles C. Miers & Nelson M. Gonzalez",
@@ -3664,7 +3664,7 @@
   },
   {
     "Paper No.": 408,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Succinct Noninteractive Arguments of Knowledge from Supersingular Isogenies",
     "Year": 2022,
     "Author": "Paulo L. Barreto, Marcos A. Simplicio Jr, Gustavo H. M. Zanon",
@@ -3673,7 +3673,7 @@
   },
   {
     "Paper No.": 409,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Técnicas de compressão de chaves para criptossistemas baseados em isogenias",
     "Year": 2022,
     "Author": "Gustavo H. M. Zanon, Marcos A. Simplicio Jr.",
@@ -3682,7 +3682,7 @@
   },
   {
     "Paper No.": 410,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Forecasting cryptocurrencies prices using data driven level set fuzzy models",
     "Year": 2022,
     "Author": "Leandro Maciel, Rosangela Ballini, Fernando Gomide, Ronald Yager",
@@ -3691,7 +3691,7 @@
   },
   {
     "Paper No.": 411,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Data Driven Level Set Fuzzy Modeling for Cryptocurrencies Price Forecasting",
     "Year": 2022,
     "Author": "Leandro Maciel, Rosangela Ballini, Fernando Gomide",
@@ -3700,7 +3700,7 @@
   },
   {
     "Paper No.": 412,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "Forecasting Volatility of Cryptocurrencies: The Role of GARCH-Family Models",
     "Year": 2022,
     "Author": "Leandro Maciel",
@@ -3709,7 +3709,7 @@
   },
   {
     "Paper No.": 413,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "A bidirectional LSTM model for cryptocurrency prices forecasting",
     "Year": 2022,
     "Author": "GUSTAVO FRANZENER GONÇALVES DA SILVA, LEANDRO DOS SANTOS MACIEL",
@@ -3718,7 +3718,7 @@
   },
   {
     "Paper No.": 414,
-    "University": "University of Sao Paulo",
+    "University": "University of São Paulo",
     "Title": "A systematic review of the use of blockchain in Internet of Medical Things",
     "Year": 2022,
     "Author": "Madeleine B. P. Vega, Antonio M. Saraiva, Marcos A. Simplicio, Bruno C. Albertini, oberto F. Silva",
