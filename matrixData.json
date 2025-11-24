@@ -1,7 +1,7 @@
 [
   {
     "Theme\\Blockchain": "RWA",
-    "General to blockchains": "326, 329, 565, 594",
+    "General to blockchains": "326, 329, 565, 594, 679, 680, 686",
     "ETH (Ethereum)": "327, 328, 330, 594",
     "Bitcoin": "330",
     "Polygon": "330"
@@ -17,7 +17,7 @@
   },
   {
     "Theme\\Blockchain": "FinTech",
-    "General to blockchains": "309, 311, 355, 437, 438, 439, 440, 462, 472, 513, 514, 565, 568, 574, 598, 624",
+    "General to blockchains": "309, 311, 355, 437, 438, 439, 440, 462, 472, 513, 514, 565, 568, 574, 598, 624, 649, 651",
     "XRP": "312, 313",
     "ETH (Ethereum)": "312, 313, 327,328,338, 455, 471",
     "Bitcoin": "312, 313, 341, 402, 455",
@@ -29,7 +29,7 @@
   },
   {
     "Theme\\Blockchain": "Sustainable Digital Finance",
-    "General to blockchains": "326, 398, 400, 401, 462, 515, 589",
+    "General to blockchains": "326, 398, 400, 401, 462, 515, 589, 675, 679, 680, 686, 717",
     "ETH (Ethereum)": "327,328, 330",
     "Bitcoin": "330, 603",
     "Polygon": "330",
@@ -37,8 +37,8 @@
   },
   {
     "Theme\\Blockchain": "Cryptographic Protocols",
-    "General to blockchains": "302, 303, 307, 382, 383, 384, 385, 409, 485, 489, 433, 453, 474, 501, 513, 590, 614, 615, 616, 617, 618, 621",
-    "XRP": "444",
+    "General to blockchains": "302, 303, 307, 382, 383, 384, 385, 409, 485, 489, 433, 453, 474, 501, 513, 590, 614, 615, 616, 617, 618, 621, 661, 687, 688, 689, 695, 696, 702, 706, 708, 709, 710, 713, 719",
+    "XRP": "444, 643",
     "ETH (Ethereum)": "306, 424, 331, 435, 460, 474, 475, 492, 560",
     "Bitcoin": "331, 434",
     "Algorand": "331",
@@ -55,7 +55,7 @@
   },
   {
     "Theme\\Blockchain": "Distributed Consistency",
-    "General to blockchains": "303,314, 315, 316, 457, 476, 576, 585, 613",
+    "General to blockchains": "303,314, 315, 316, 457, 476, 576, 585, 613, 669",
     "XRP": "317, 442, 571, 586",
     "ETH (Ethereum)": "331, 460, 597",
     "Bitcoin": "331, 445",
@@ -67,7 +67,7 @@
   },
   {
     "Theme\\Blockchain": "Consensus",
-    "General to blockchains": "309, 315, 316, 325, 428, 433, 522, 528, 529, 536, 541, 613, 615, 624, 627, 628",
+    "General to blockchains": "309, 315, 316, 325, 428, 433, 522, 528, 529, 536, 541, 613, 615, 624, 627, 628, 644, 669",
     "XRP": "317, 357, 442, 444, 569, 571",
     "ETH (Ethereum)": "331, 334, 335, 336, 357, 425, 430, 460, 550, 569, 632, 633",
     "Bitcoin": "331,334, 336,357, 446, 447, 550",
@@ -97,8 +97,8 @@
   },
   {
     "Theme\\Blockchain": "DeFi",
-    "General to blockchains": "423, 309, 339, 456, 472, 473, 477, 505, 513, 592, 594, 595, 596, 622, 640",
-    "XRP": "395",
+    "General to blockchains": "423, 309, 339, 456, 472, 473, 477, 505, 513, 592, 594, 595, 596, 622, 640, 654, 663, 665, 672, 699, 700, 703",
+    "XRP": "395, 648",
     "ETH (Ethereum)": "319, 320, 395, 466, 467, 471, 473, 512, 592, 594, 595, 596, 622, 623, 634",
     "Bitcoin": "319, 395, 473, 623",
     "Solana": "319, 395",
@@ -115,8 +115,8 @@
   },
   {
     "Theme\\Blockchain": "Network Analysis",
-    "General to blockchains": "314, 503, 509, 600",
-    "XRP": "418, 420, 421, 313, 349, 350, 427, 444",
+    "General to blockchains": "314, 503, 509, 600, 666",
+    "XRP": "418, 420, 421, 313, 349, 350, 427, 444, 645, 647",
     "ETH (Ethereum)": "313, 503",
     "Bitcoin": "313, 481, 508",
     "Terra": "313, 600",
@@ -126,7 +126,7 @@
   },
   {
     "Theme\\Blockchain": "CryptoAsset Price Analysis and/or Prediction",
-    "General to blockchains": "480, 454, 457, 462, 509, 600",
+    "General to blockchains": "480, 454, 457, 462, 509, 600, 690, 691, 692, 693",
     "XRP": "418, 420, 421, 312 ,396, 410, 411, 412, 413",
     "ETH (Ethereum)": "306, 312, 396, 410, 411, 412, 413, 415, 469, 523, 634",
     "Bitcoin": "306, 312, 396, 410, 412, 413, 415, 508, 521, 523, 601",
@@ -146,7 +146,7 @@
   },
   {
     "Theme\\Blockchain": "CryptoAsset Money Laundering and Arbitrage",
-    "General to blockchains": "600",
+    "General to blockchains": "600, 655, 672",
     "XRP": "418, 417",
     "ETH (Ethereum)": "418",
     "Bitcoin": "417, 436, 447, 478",
@@ -154,8 +154,8 @@
   },
   {
     "Theme\\Blockchain": "Blockchain Accountability & Security",
-    "General to blockchains": "303, 309, 315, 316, 318, 324, 325, 326, 399, 452, 453, 456, 546, 548, 549, 576, 585, 595, 596, 605, 606, 622, 640",
-    "XRP": "369, 544, 545, 571, 586",
+    "General to blockchains": "303, 309, 315, 316, 318, 324, 325, 326, 399, 452, 453, 456, 546, 548, 549, 576, 585, 595, 596, 605, 606, 622, 640, 655, 672, 682, 684, 685, 704, 705, 718",
+    "XRP": "369, 544, 545, 571, 586, 646",
     "ETH (Ethereum)": "319, 320, 535, 550, 570, 595, 596, 610, 622, 623, 632, 633",
     "Bitcoin": "319, 623",
     "Solana": "319",
@@ -167,14 +167,14 @@
   },
   {
     "Theme\\Blockchain": "Cross-domain Data Access",
-    "General to blockchains": "501, 568, 606",
+    "General to blockchains": "501, 568, 606, 681, 686, 714",
     "XRP": "317, 410",
     "Indirect to Blockchains": "305"
   },
   {
     "Theme\\Blockchain": "Game Theory Analysis",
-    "General to blockchains": "325, 602",
-    "ETH (Ethereum)": "344, 358",
+    "General to blockchains": "325, 602, 700",
+    "ETH (Ethereum)": "344, 358, 700",
     "Bitcoin": "306, 358, 447",
     "Algorand": "344",
     "Cardano": "602",
@@ -186,15 +186,15 @@
   },
   {
     "Theme\\Blockchain": "Zero-knowledge proof",
-    "General to blockchains": "307, 408, 429, 484, 432, 433, 451, 585, 590, 591, 605, 614, 616, 617",
-    "XRP": "586",
+    "General to blockchains": "307, 408, 429, 484, 432, 433, 451, 585, 590, 591, 605, 614, 616, 617, 661, 695, 697, 701, 702, 707, 708, 709, 713, 719",
+    "XRP": "586, 648",
     "ETH (Ethereum)": "435, 592",
     "Bitcoin": "434",
     "Indirect to Blockchains": "554"
   },
   {
     "Theme\\Blockchain": "Efficiency and Scalability",
-    "General to blockchains": "307,314, 316, 318, 332, 380, 431, 472, 474, 557, 592, 595, 602, 619, 620, 621",
+    "General to blockchains": "307,314, 316, 318, 332, 380, 431, 472, 474, 557, 592, 595, 602, 619, 620, 621, 669, 706, 707, 711",
     "XRP": "317, 356, 442, 448, 543, 569",
     "ETH (Ethereum)": "319, 331, 333,337,365, 425, 435, 467, 468, 469, 474, 475, 543, 569, 595",
     "Bitcoin": "319,331, 333,337,365, 445, 446",
@@ -235,7 +235,7 @@
   },
   {
     "Theme\\Blockchain": "Asset Management & Financial Mechanisms",
-    "General to blockchains": "326, 329, 480, 438, 440, 462, 534, 594, 599",
+    "General to blockchains": "326, 329, 480, 438, 440, 462, 534, 594, 599, 663, 665, 672, 692, 699, 700, 703",
     "ETH (Ethereum)": "320, 327,328,330, 566, 594",
     "Bitcoin": "330",
     "Polygon": "320, 330",
@@ -243,8 +243,8 @@
   },
   {
     "Theme\\Blockchain": "Smart Contract Security & Monitoring",
-    "General to blockchains": "443, 456, 472, 501, 502, 503, 595, 596, 622",
-    "XRP": "348, 444, 448, 569",
+    "General to blockchains": "443, 456, 472, 501, 502, 503, 595, 596, 622, 660, 662, 711, 712",
+    "XRP": "348, 444, 448, 569, 648",
     "ETH (Ethereum)": "321,330, 345, 346, 460, 466, 467, 468, 547, 503, 569, 570, 595, 596, 610, 622, 623",
     "Bitcoin": "330, 434, 623",
     "Polygon": "330",
@@ -253,7 +253,7 @@
   },
   {
     "Theme\\Blockchain": "Access Control & Security Models in Blockchain",
-    "General to blockchains": "322, 340, 375, 485, 486, 488, 495, 496, 493, 451, 501, 502, 576, 585, 588, 591, 598, 604, 606, 609",
+    "General to blockchains": "322, 340, 375, 485, 486, 488, 495, 496, 493, 451, 501, 502, 576, 585, 588, 591, 598, 604, 606, 609, 668, 681, 689, 701, 714, 718",
     "XRP": "586",
     "ETH (Ethereum)": "343, 367, 497",
     "Bitcoin": "343",
@@ -261,7 +261,7 @@
   },
   {
     "Theme\\Blockchain": "Blockchain for Energy Industry",
-    "General to blockchains": "329, 363, 374, 397, 511, 514, 515, 526",
+    "General to blockchains": "329, 363, 374, 397, 511, 514, 515, 526, 717",
     "XRP": "410",
     "ETH (Ethereum)": "328, 330, 386",
     "Bitcoin": "330, 386, 601, 603",
@@ -277,7 +277,7 @@
   },
   {
     "Theme\\Blockchain": "Digital Health and Blockchain",
-    "General to blockchains": "370, 378, 404, 414, 491, 496, 522",
+    "General to blockchains": "370, 378, 404, 414, 491, 496, 522, 652, 676, 694, 714",
     "XRP": "368",
     "ETH (Ethereum)": "359, 570"
   },
@@ -289,7 +289,7 @@
   },
   {
     "Theme\\Blockchain": "Blockchain in Agriculture",
-    "General to blockchains": "361, 381, 416",
+    "General to blockchains": "361, 381, 416, 681",
     "ETH (Ethereum)": "403"
   },
   {
@@ -300,13 +300,21 @@
   },
   {
     "Theme\\Blockchain": "Blockchain for Transparent Governance",
-    "General to blockchains": "477, 538, 599, 624",
+    "General to blockchains": "477, 538, 599, 624, 685, 713",
     "ETH (Ethereum)": "405",
     "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "405",
     "Indirect to Blockchains": "579, 626"
   },
   {
     "Theme\\Blockchain": "CBDC",
-    "General to blockchains": "596, 591, 574, 568"
+    "General to blockchains": "596, 591, 574, 568, 653, 687"
+  },
+  {
+    "Theme\\Blockchain": "AI Agent & LLM",
+    "General to blockchains": "656, 657, 660, 662, 667, 674, 711"
+  },
+  {
+    "Theme\\Blockchain": "Others",
+    "General to blockchains": "658, 659, 664, 670, 671, 675, 677, 678, 683, 698"
   }
 ]
