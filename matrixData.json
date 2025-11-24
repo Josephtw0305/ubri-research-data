@@ -1,23 +1,23 @@
 [
   {
     "Theme\\Blockchain": "RWA",
-    "General to blockchains": "326, 329",
-    "ETH (Ethereum)": "327, 328, 330",
+    "General to blockchains": "326, 329, 565, 594",
+    "ETH (Ethereum)": "327, 328, 330, 594",
     "Bitcoin": "330",
     "Polygon": "330"
   },
   {
     "Theme\\Blockchain": "Stable Coin",
-    "General to blockchains": "439",
+    "General to blockchains": "439, 565, 568, 574, 598",
     "ETH (Ethereum)": "306, 328",
-    "Terra": "306.0",
+    "Terra": "306, 600",
     "BSC": "306",
     "Celo": "306",
     "Waves": "306"
   },
   {
     "Theme\\Blockchain": "FinTech",
-    "General to blockchains": "309, 311, 355, 437, 438, 439, 440, 462, 472, 513, 514",
+    "General to blockchains": "309, 311, 355, 437, 438, 439, 440, 462, 472, 513, 514, 565, 568, 574, 598, 624",
     "XRP": "312, 313",
     "ETH (Ethereum)": "312, 313, 327,328,338, 455, 471",
     "Bitcoin": "312, 313, 341, 402, 455",
@@ -25,20 +25,21 @@
     "Terra": "313",
     "BSC": "338",
     "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "313",
-    "Indirect to Blockchains": "461, 463"
+    "Indirect to Blockchains": "461, 463, 573, 577, 578, 581, 582, 584, 591, 593, 608, 625, 629, 631, 641, 642"
   },
   {
     "Theme\\Blockchain": "Sustainable Digital Finance",
-    "General to blockchains": "326, 398, 400, 401, 462, 515",
+    "General to blockchains": "326, 398, 400, 401, 462, 515, 589",
     "ETH (Ethereum)": "327,328, 330",
-    "Bitcoin": "330",
-    "Polygon": "330"
+    "Bitcoin": "330, 603",
+    "Polygon": "330",
+    "Indirect to Blockchains": "573"
   },
   {
     "Theme\\Blockchain": "Cryptographic Protocols",
-    "General to blockchains": "302, 303, 307, 382, 383, 384, 385, 409, 485, 489, 433, 453, 474, 501, 513, 560",
+    "General to blockchains": "302, 303, 307, 382, 383, 384, 385, 409, 485, 489, 433, 453, 474, 501, 513, 590, 614, 615, 616, 617, 618, 621",
     "XRP": "444",
-    "ETH (Ethereum)": "306, 424, 331, 435, 460, 474, 475, 492",
+    "ETH (Ethereum)": "306, 424, 331, 435, 460, 474, 475, 492, 560",
     "Bitcoin": "331, 434",
     "Algorand": "331",
     "Solana": "331",
@@ -50,13 +51,13 @@
     "Waves": "306, 331",
     "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "331",
     "Tendermint": "444",
-    "Indirect to Blockchains": "304, 305, 553, 555, 556"
+    "Indirect to Blockchains": "304, 305, 553, 555, 556, 591"
   },
   {
     "Theme\\Blockchain": "Distributed Consistency",
-    "General to blockchains": "303, 314, 315, 316, 457, 476",
-    "XRP": "317, 442",
-    "ETH (Ethereum)": "331, 460",
+    "General to blockchains": "303,314, 315, 316, 457, 476, 576, 585, 613",
+    "XRP": "317, 442, 571, 586",
+    "ETH (Ethereum)": "331, 460, 597",
     "Bitcoin": "331, 445",
     "Algorand": "331",
     "Solana": "331",
@@ -66,10 +67,10 @@
   },
   {
     "Theme\\Blockchain": "Consensus",
-    "General to blockchains": "309, 315, 316, 325, 428, 433, 522, 528, 529, 536, 541",
-    "XRP": "317, 357, 442, 444",
-    "ETH (Ethereum)": "331, 334, 335, 336, 357, 425, 430, 460, 550",
-    "Bitcoin": "331, 334, 336,357, 446, 447, 550",
+    "General to blockchains": "309, 315, 316, 325, 428, 433, 522, 528, 529, 536, 541, 613, 615, 624, 627, 628",
+    "XRP": "317, 357, 442, 444, 569, 571",
+    "ETH (Ethereum)": "331, 334, 335, 336, 357, 425, 430, 460, 550, 569, 632, 633",
+    "Bitcoin": "331,334, 336,357, 446, 447, 550",
     "Algorand": "331, 334",
     "Solana": "331",
     "Cardano": "331",
@@ -83,26 +84,26 @@
     "Theme\\Blockchain": "Cloud Security",
     "General to blockchains": "302, 487, 490, 491, 452, 465",
     "XRP": "448",
-    "ETH (Ethereum)": "407, 465, 475",
+    "ETH (Ethereum)": "407, 465, 475, 570",
     "Bitcoin": "436",
     "HyperLedger Fabric": "406",
     "Indirect to Blockchains": "304, 305, 441, 449, 464"
   },
   {
-    "Theme\\Blockchain": "Web 3.0",
-    "General to blockchains": "423, 316, 318",
-    "ETH (Ethereum)": "424",
+    "Theme\\Blockchain": "Web 3",
+    "General to blockchains": "423, 316, 318, 587, 605",
+    "ETH (Ethereum)": "424, 566",
     "Indirect to Blockchains": "323"
   },
   {
     "Theme\\Blockchain": "DeFi",
-    "General to blockchains": "423, 309, 339, 456, 472, 473, 477, 505, 513",
+    "General to blockchains": "423, 309, 339, 456, 472, 473, 477, 505, 513, 592, 594, 595, 596, 622, 640",
     "XRP": "395",
-    "ETH (Ethereum)": "319, 320, 395, 466, 467, 471, 473, 512",
-    "Bitcoin": "319, 395, 473",
+    "ETH (Ethereum)": "319, 320, 395, 466, 467, 471, 473, 512, 592, 594, 595, 596, 622, 623, 634",
+    "Bitcoin": "319, 395, 473, 623",
     "Solana": "319, 395",
     "Cardano": "319",
-    "Polygon": "319, 320",
+    "Polygon": "319, 320, 592",
     "Terra": "395",
     "BSC": "319, 395",
     "Celo": "319"
@@ -114,28 +115,28 @@
   },
   {
     "Theme\\Blockchain": "Network Analysis",
-    "General to blockchains": "314, 503, 509",
+    "General to blockchains": "314, 503, 509, 600",
     "XRP": "418, 420, 421, 313, 349, 350, 427, 444",
     "ETH (Ethereum)": "313, 503",
     "Bitcoin": "313, 481, 508",
-    "Terra": "313",
+    "Terra": "313, 600",
     "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "313",
     "Tendermint": "444",
-    "Indirect to Blockchains": "464"
+    "Indirect to Blockchains": "464, 561, 562, 563, 607"
   },
   {
     "Theme\\Blockchain": "CryptoAsset Price Analysis and/or Prediction",
-    "General to blockchains": "480, 454, 457, 462, 509",
+    "General to blockchains": "480, 454, 457, 462, 509, 600",
     "XRP": "418, 420, 421, 312 ,396, 410, 411, 412, 413",
-    "ETH (Ethereum)": "306, 312, 396, 410, 411, 412, 413, 415, 469, 523",
-    "Bitcoin": "306, 312, 396, 410, 412, 413, 415, 508, 521, 523",
+    "ETH (Ethereum)": "306, 312, 396, 410, 411, 412, 413, 415, 469, 523, 634",
+    "Bitcoin": "306, 312, 396, 410, 412, 413, 415, 508, 521, 523, 601",
     "Cardano": "312, 410, 412, 413",
-    "Terra": "306",
+    "Terra": "306, 600",
     "BSC": "306",
     "Celo": "306",
     "Waves": "306",
     "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "410, 411, 412, 413, 523",
-    "Indirect to Blockchains": "470"
+    "Indirect to Blockchains": "470, 593, 608"
   },
   {
     "Theme\\Blockchain": "CryptoAsset Remittance",
@@ -145,16 +146,18 @@
   },
   {
     "Theme\\Blockchain": "CryptoAsset Money Laundering and Arbitrage",
+    "General to blockchains": "600",
     "XRP": "418, 417",
     "ETH (Ethereum)": "418",
-    "Bitcoin": "417, 436, 447, 478"
+    "Bitcoin": "417, 436, 447, 478",
+    "Terra": "600"
   },
   {
     "Theme\\Blockchain": "Blockchain Accountability & Security",
-    "General to blockchains": "303, 309, 315, 316, 318, 324, 325, 326, 399, 452, 453, 456, 546, 548, 549",
-    "XRP": "369, 544, 545",
-    "ETH (Ethereum)": "319, 320, 535, 550",
-    "Bitcoin": "319",
+    "General to blockchains": "303, 309, 315, 316, 318, 324, 325, 326, 399, 452, 453, 456, 546, 548, 549, 576, 585, 595, 596, 605, 606, 622, 640",
+    "XRP": "369, 544, 545, 571, 586",
+    "ETH (Ethereum)": "319, 320, 535, 550, 570, 595, 596, 610, 622, 623, 632, 633",
+    "Bitcoin": "319, 623",
     "Solana": "319",
     "Cardano": "319",
     "Polygon": "319, 320",
@@ -164,47 +167,50 @@
   },
   {
     "Theme\\Blockchain": "Cross-domain Data Access",
-    "General to blockchains": "501",
+    "General to blockchains": "501, 568, 606",
     "XRP": "317, 410",
     "Indirect to Blockchains": "305"
   },
   {
     "Theme\\Blockchain": "Game Theory Analysis",
-    "General to blockchains": "325",
+    "General to blockchains": "325, 602",
     "ETH (Ethereum)": "344, 358",
     "Bitcoin": "306, 358, 447",
     "Algorand": "344",
+    "Cardano": "602",
     "Terra": "306",
     "BSC": "306",
     "Celo": "306",
-    "Waves": "306"
+    "Waves": "306",
+    "Indirect to Blockchains": "563, 572"
   },
   {
     "Theme\\Blockchain": "Zero-knowledge proof",
-    "General to blockchains": "307, 408, 429, 484, 432, 433, 451",
-    "ETH (Ethereum)": "435",
+    "General to blockchains": "307, 408, 429, 484, 432, 433, 451, 585, 590, 591, 605, 614, 616, 617",
+    "XRP": "586",
+    "ETH (Ethereum)": "435, 592",
     "Bitcoin": "434",
     "Indirect to Blockchains": "554"
   },
   {
     "Theme\\Blockchain": "Efficiency and Scalability",
-    "General to blockchains": "307, 314, 316, 318, 332, 380, 431, 472, 474, 557",
-    "XRP": "317, 356, 442, 448, 543",
-    "ETH (Ethereum)": "319, 331, 333, 337,365, 425, 435, 467, 468, 469, 474, 475, 543",
-    "Bitcoin": "319,331, 333, 337,365, 445, 446",
+    "General to blockchains": "307,314, 316, 318, 332, 380, 431, 472, 474, 557, 592, 595, 602, 619, 620, 621",
+    "XRP": "317, 356, 442, 448, 543, 569",
+    "ETH (Ethereum)": "319, 331, 333,337,365, 425, 435, 467, 468, 469, 474, 475, 543, 569, 595",
+    "Bitcoin": "319,331, 333,337,365, 445, 446",
     "Algorand": "331, 365",
     "Solana": "319, 331",
-    "Cardano": "319, 331",
+    "Cardano": "319, 331, 602",
     "Polygon": "319, 331, 365",
     "Terra": "331",
     "BSC": "319, 331, 365, ,365",
     "Celo": "319, 331",
     "HyperLedger Fabric": "347, 365",
-    "Indirect to Blockchains": "449, 459, 464, 552"
+    "Indirect to Blockchains": "449, 459, 464, 552, 563, 612, 641"
   },
   {
     "Theme\\Blockchain": "Cryptocurrency Adoption and Brand Perception",
-    "General to blockchains": "483, 437, 439, 454, 476",
+    "General to blockchains": "483, 437, 439, 454, 476, 575, 624",
     "XRP": "342, 479",
     "ETH (Ethereum)": "342, 479, 466",
     "Bitcoin": "308, 342, 479",
@@ -214,11 +220,12 @@
     "Polygon": "342",
     "BSC": "342",
     "Celo": "342",
-    "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "479"
+    "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "479",
+    "Indirect to Blockchains": "575"
   },
   {
     "Theme\\Blockchain": "Decentralized Autonomous Organizations (DAO)",
-    "General to blockchains": "309, 311, 326, 388, 456, 462, 539",
+    "General to blockchains": "309, 311, 326, 388, 456, 462, 539, 627, 628, 640",
     "XRP": "310, 387",
     "ETH (Ethereum)": "310, 455",
     "Bitcoin": "310, 455",
@@ -228,24 +235,26 @@
   },
   {
     "Theme\\Blockchain": "Asset Management & Financial Mechanisms",
-    "General to blockchains": "326, 329, 480, 438, 440, 462, 534",
-    "ETH (Ethereum)": "320, 327, 328, 330",
+    "General to blockchains": "326, 329, 480, 438, 440, 462, 534, 594, 599",
+    "ETH (Ethereum)": "320, 327,328,330, 566, 594",
     "Bitcoin": "330",
     "Polygon": "320, 330",
-    "Indirect to Blockchains": "461"
+    "Indirect to Blockchains": "461, 563, 564, 578, 593, 629, 630, 631"
   },
   {
     "Theme\\Blockchain": "Smart Contract Security & Monitoring",
-    "General to blockchains": "443, 456, 472, 501, 502, 503",
-    "XRP": "348, 444, 448",
-    "ETH (Ethereum)": "321, 330, 345, 346, 460, 466, 467, 468, 547, 503",
-    "Bitcoin": "330, 434",
+    "General to blockchains": "443, 456, 472, 501, 502, 503, 595, 596, 622",
+    "XRP": "348, 444, 448, 569",
+    "ETH (Ethereum)": "321,330, 345, 346, 460, 466, 467, 468, 547, 503, 569, 570, 595, 596, 610, 622, 623",
+    "Bitcoin": "330, 434, 623",
     "Polygon": "330",
+    "Terra": "600",
     "Tendermint": "444"
   },
   {
     "Theme\\Blockchain": "Access Control & Security Models in Blockchain",
-    "General to blockchains": "322, 340, 375, 485, 486, 488, 495, 496, 493, 451, 501, 502",
+    "General to blockchains": "322, 340, 375, 485, 486, 488, 495, 496, 493, 451, 501, 502, 576, 585, 588, 591, 598, 604, 606, 609",
+    "XRP": "586",
     "ETH (Ethereum)": "343, 367, 497",
     "Bitcoin": "343",
     "Indirect to Blockchains": "366"
@@ -255,28 +264,28 @@
     "General to blockchains": "329, 363, 374, 397, 511, 514, 515, 526",
     "XRP": "410",
     "ETH (Ethereum)": "328, 330, 386",
-    "Bitcoin": "330, 386",
+    "Bitcoin": "330, 386, 601, 603",
     "Polygon": "330"
   },
   {
     "Theme\\Blockchain": "Cryptoasset Regulation & Legal Analysis",
-    "General to blockchains": "389, 390, 391, 426, 439, 505, 506, 513, 525, 542, 551",
+    "General to blockchains": "389, 390, 391, 426, 439, 505, 506, 513, 525, 542, 551, 565, 568, 574, 587, 594, 606, 635",
     "XRP": "351, 352, 353",
-    "ETH (Ethereum)": "351, 352",
+    "ETH (Ethereum)": "351, 352, 566, 594",
     "Bitcoin": "351, 354, 436",
-    "Indirect to Blockchains": "482"
+    "Indirect to Blockchains": "482, 566, 625, 637"
   },
   {
     "Theme\\Blockchain": "Digital Health and Blockchain",
     "General to blockchains": "370, 378, 404, 414, 491, 496, 522",
     "XRP": "368",
-    "ETH (Ethereum)": "359"
+    "ETH (Ethereum)": "359, 570"
   },
   {
     "Theme\\Blockchain": "Blockchain in Transportation",
     "General to blockchains": "360, 362, 371, 372, 373, 376, 377, 498, 499, 500, 504",
     "ETH (Ethereum)": "530",
-    "Indirect to Blockchains": "309, 311, 355, 437, 438, 439, 440, 462, 472, 513, 514, 519, 520, 524, 527, 531, 532, 533, 537, 540"
+    "Indirect to Blockchains": "309, 311, 355, 437, 438, 439, 440, 462, 472, 513, 514, 519, 520, 524, 527, 531, 532, 533, 537, 540,"
   },
   {
     "Theme\\Blockchain": "Blockchain in Agriculture",
@@ -285,14 +294,19 @@
   },
   {
     "Theme\\Blockchain": "Multi-agent Learning",
-    "General to blockchains": "465",
+    "General to blockchains": "465, 628",
     "ETH (Ethereum)": "465",
-    "Indirect to Blockchains": "364"
+    "Indirect to Blockchains": "364, 580"
   },
   {
     "Theme\\Blockchain": "Blockchain for Transparent Governance",
-    "General to blockchains": "477, 538",
+    "General to blockchains": "477, 538, 599, 624",
     "ETH (Ethereum)": "405",
-    "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "405"
+    "LTC, LNK, Tron, DOGE, BNB, Stellar, AAVE, ALICEUSDT, AMC, BSVUSD, BTCUSD, BTCUSDT, GME, LUNA, LUNAUSDT, MRNA, TRXBTC, XBT, and XRPUSD": "405",
+    "Indirect to Blockchains": "579, 626"
+  },
+  {
+    "Theme\\Blockchain": "CBDC",
+    "General to blockchains": "596, 591, 574, 568"
   }
 ]
