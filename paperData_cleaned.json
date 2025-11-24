@@ -5740,5 +5740,644 @@
     "Author": "Jack Morgan, Eric Ghysels, Hamed Mohammadbagherpoor",
     "Keywords": "Computer Science; N/A",
     "Link": "https://arxiv.org/abs/2404.10103"
+  },
+    {
+    "Paper No.": 643,
+    "University": "Trinity College Dublin",
+    "Title": "From Theory to Implementation of Quantum-Safe Ledgers with XRPL as a Case Study",
+    "Year": 2025,
+    "Author": "Atharva Lele, Vaibhav Agarwal, Hitesh Tewari",
+    "Keywords": "Computer Science; Blockchain, PQC, XRP Ledger, CRYSTALS-Dilithium, Secp256k1, Ed25519-donna, NIST, Shor, Grover",
+    "Link": "https://ieeexplore.ieee.org/document/11229538"
+  },
+  {
+    "Paper No.": 644,
+    "University": "Trinity College Dublin",
+    "Title": "PoW++: An Energy Efficient Proof-of-Work Variant",
+    "Year": 2025,
+    "Author": "Vaibhav Agarwal, Harsha Vardhan, Aniket Kumar, Hitesh Tewari",
+    "Keywords": "Computer Science; PoW++, PoW, Parallel Chains, Checkpoints, Energy Efficient Blockchain, PoW Variants",
+    "Link": "https://ieeexplore.ieee.org/document/11229519"
+  },
+  {
+    "Paper No.": 645,
+    "University": "Luxembourg",
+    "Title": "Causal AI for XRPL/GossipSub network configuration",
+    "Year": 2024,
+    "Author": "Flaviene Scheidt de Cristo; Jean-Philippe Eisenbarth; Jorge Augusto Meira; Radu State",
+    "Keywords": "Computer Science; Causal Analysis, Causal Discovery, PubSub Systems, Gossipsub, XRPL, Network Configuration",
+    "Link": "https://ieeexplore.ieee.org/document/10814382/authors#authors"
+  },
+  {
+    "Paper No.": 646,
+    "University": "Luxembourg",
+    "Title": "Whistleblowers Protection with XRP Ledger",
+    "Year": 2024,
+    "Author": "Pavel Pantiukhov; Dmitrii Koriakov; Antonio Ken Iannillo; Radu State",
+    "Keywords": "Computer Science; Whistleblower, XRP Ledger, Security, Privacy",
+    "Link": "https://ieeexplore.ieee.org/document/10844385"
+  },
+  {
+    "Paper No.": 647,
+    "University": "Luxembourg",
+    "Title": "A 9-dimensional Analysis of GossipSub over the XRP Ledger Consensus Protocol",
+    "Year": 2024,
+    "Author": "Flaviene Scheidt De Cristo; Jorge Augusto Meira; Jean-Philippe Eisenbarth; Radu State",
+    "Keywords": "Computer Science; XRPL, Unstructured P2P, PubSub, Blockchain, GossipSub",
+    "Link": "https://ieeexplore.ieee.org/document/10575688"
+  },
+  {
+    "Paper No.": 648,
+    "University": "Luxembourg",
+    "Title": "Enhanced DeFi Security on XRPL with Zero-Knowledge Proofs and Speaker Verification",
+    "Year": 2024,
+    "Author": "Pavel Pantiukhov; Dmitrii Koriakov; Tatiana Petrova; Jeovane Honorio Alves; Vijay K Gurbani; Radu State",
+    "Keywords": "Computer Science; Voice Cloning Detection, Zero-Knowledge Proofs, Biometric Authentication, XRP Ledger, Blockchain Security, Privacy-Preserving Authentication, Decentralized Finance",
+    "Link": "https://ieeexplore.ieee.org/document/10739262"
+  },
+  {
+    "Paper No.": 649,
+    "University": "UZH Zurich",
+    "Title": "FinTech services from BigTech companies",
+    "Year": 2024,
+    "Author": "Thomas Puschmann, Engjull Halimi",
+    "Keywords": "Business / Economy / Finance; Banking Services, BigTech, Customer Behaviour, FinTech",
+    "Link": "https://onlinelibrary.wiley.com/doi/full/10.1002/sres.3029#:~:text=The%20examples%20of%20innovative%20banking,which%20was%20not%20pursued%20further."
+  },
+  {
+    "Paper No.": 651,
+    "University": "TMU",
+    "Title": "Breaking the mold: the pursuit of decentralized trade and supply chain finance",
+    "Year": 2024,
+    "Author": "Mohamad Sadegh Sangari, Kar Wai So, Atefeh Mashatan",
+    "Keywords": "Multidisciplinary; Blockchain Technology (BT), Supply Chain Finance (SCF), Trade Finance (TF), Technology-Organization-Environment (TOE), Bayesian Best-Worst Method (BWM)",
+    "Link": "https://www.emerald.com/insight/content/doi/10.1108/imds-03-2023-0197/full/pdf?title=breaking-the-mold-the-pursuit-of-decentralized-trade-and-supply-chain-finance"
+  },
+  {
+    "Paper No.": 652,
+    "University": "TMU",
+    "Title": "The Personal Health Dossier: A proposed decentralized personal health record system using verifiable credentials",
+    "Year": 2025,
+    "Author": "Dave McKay, Holly Gardner, Atefeh Mashatan",
+    "Keywords": "Multidisciplinary; Patient-centric care, verifiable credentials, personal health record, FHIR.",
+    "Link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1414&context=amcis2025#:~:text=This%20paper%20proposes%20to%20extend,technology%20that%20utilizes%20verifiable%20credentials."
+  },
+  {
+    "Paper No.": 653,
+    "University": "TMU",
+    "Title": "Adoption of Central Bank Digital Currencies: A Data-Driven Exploration of Key Influential Factors",
+    "Year": 2025,
+    "Author": "Arshpreet Singh, Mohamad Sadegh Sangari, Atefeh Mashatan",
+    "Keywords": "Computer Science; Central Bank Digital Currency (CBDC), CBDC Adoption, Topic Modeling, Aspect-Based Sentiment Analysis (ABSA)",
+    "Link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1147&context=amcis2025"
+  },
+  {
+    "Paper No.": 654,
+    "University": "UK CBT & NTU",
+    "Title": "Auto.gov: Learning-Based Governance for Decentralized Finance (DeFi)",
+    "Year": 2025,
+    "Author": "Jiahua Xu, Yebo Feng, Daniel Perez, Benjamin Livshits",
+    "Keywords": "Computer Science; Governance, decentralized finance (DeFi), reinforcement learning (RL), artificial intelligence (AI).",
+    "Link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937069"
+  },
+  {
+    "Paper No.": 655,
+    "University": "Kyoto University",
+    "Title": "Verification of Elemental Technologies for Anomaly Detection in Crypto Asset Transactions",
+    "Year": 2024,
+    "Author": "Yuichi Ikeda, Hideaki Aoyama, Tetsuo Hatsuda, Yoshimasa Hidaka, Tomoyuki Shirai, Wataru Souma, Hiroshi Iyetomi, Abhijit Chakraborty, Akihiro Fujihara, Yasushi Nakayama, Yuta Arai and Krongtum Sankaewtong",
+    "Keywords": "Computer Science; Crypto Asset, Transaction Network, Anomaly Detection, Graph Theory, Topological Data Analysis",
+    "Link": "https://www.rieti.go.jp/jp/publications/dp/24e085.pdf"
+  },
+  {
+    "Paper No.": 656,
+    "University": "NTU",
+    "Title": "Personality?Guided Code Generation Using Large Language Models",
+    "Year": 2025,
+    "Author": "Yaoqi Guo, Zhenpeng Chen, Jie?M. Zhang, Yang Liu, Yun Ma",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://arxiv.org/abs/2411.00006"
+  },
+  {
+    "Paper No.": 657,
+    "University": "NTU",
+    "Title": "A Survey on Trustworthy LLM Agents: Threats and Countermeasures",
+    "Year": 2025,
+    "Author": "Miao Yu, Fanci Meng, Xinyun Zhou, Shilong Wang, Junyuan Mao, Linsey Pang, Tianlong Chen, Kun Wang, Xinfeng Li, Yongfeng Zhang, Bo An, Qingsong Wen",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://arxiv.org/abs/2503.09648"
+  },
+  {
+    "Paper No.": 658,
+    "University": "NTU",
+    "Title": "Slot: Provenance?Driven APT Detection through Graph Reinforcement Learning",
+    "Year": 2025,
+    "Author": "Wei Qiao, Yebo Feng, Teng Li, Zhuo Ma, Yulong Shen, JianFeng Ma, Yang Liu",
+    "Keywords": "Computer Science; Advanced persistent threat (APT), APT Detection, Antrusion detection, Reinforcement learning, Graph neural network",
+    "Link": "https://arxiv.org/abs/2410.17910"
+  },
+  {
+    "Paper No.": 659,
+    "University": "NTU",
+    "Title": "SCR?Auth: Secure Call Receiver Authentication on Smartphones Using Outer Ear Echoes",
+    "Year": 2025,
+    "Author": "Xiping Sun, Jing Chen, Kun He, Zhixiang He, Ruiying Du, Yebo Feng, Qingchuan Zhao, Cong Wu",
+    "Keywords": "Multidisciplinary; Call Receiver Authentication, Outer Ear Echoes, Smartphone, User Security and Privacy",
+    "Link": "https://arxiv.org/abs/2404.15000"
+  },
+  {
+    "Paper No.": 660,
+    "University": "NTU",
+    "Title": "Benchmarking LLMs and LLM?based Agents in Practical Vulnerability Detection for Code Repositories",
+    "Year": 2025,
+    "Author": "Alperen Yildiz, Sin G. Teo, Yiling Lou, Yebo Feng, Chong Wang, Dinil Mon Divakaran",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://arxiv.org/abs/2503.03586"
+  },
+  {
+    "Paper No.": 661,
+    "University": "UK CBT & NTU",
+    "Title": "StealthHub: UTXO-Based Stealth Address Protocol",
+    "Year": 2025,
+    "Author": "Hanze Guo, Yebo Feng, Cong Wu, Zengpeng Li, Jiahua Xu",
+    "Keywords": "Business / Economy / Finance; N/A",
+    "Link": "https://www.linkedin.com/posts/cbtuk_stealthhub-utxo-based-stealth-address-protocol-activity-7340375500072116225-JARd"
+  },
+  {
+    "Paper No.": 662,
+    "University": "NTU",
+    "Title": "Eliminating Backdoors in Neural Code Models for Secure Code Understanding",
+    "Year": 2025,
+    "Author": "Weisong Sun, Yuchen Chen, Chunrong Fang, Yebo Feng, Yuan Xiao, An Guo, Quanjun Zhang, Zhenyu Chen, Baowen Xu, Yang Liu",
+    "Keywords": "Computer Science; Neural Code Models, Backdoor Defense, Trigger Inversion",
+    "Link": "https://arxiv.org/abs/2408.04683"
+  },
+  {
+    "Paper No.": 663,
+    "University": "UK CBT & NTU",
+    "Title": "AMM?based DEX on the XRP Ledger",
+    "Year": 2025,
+    "Author": "Walter Hernandez Cruz, Firas Dahi, Yebo Feng, Jiahua Xu, Aanchal Malhotra, Paolo Tasca",
+    "Keywords": "Business / Economy / Finance; Automated Market Maker, XRP Ledger, Decentralized Finance, Continuous Auction Mechanism",
+    "Link": "https://arxiv.org/abs/2312.13749"
+  },
+  {
+    "Paper No.": 664,
+    "University": "NTU",
+    "Title": "CSIPose: Unveiling Human Poses Using Commodity WiFi Devices Through the Wall",
+    "Year": 2025,
+    "Author": "Yangyang Gu, Jing Chen, Congrui Chen, Kun He, Jia Ju, Yebo Feng, Ruiying Du, Cong Wu",
+    "Keywords": "Computer Science; Channel State Information, Human Pose Estimation, Human Privacy, Through the Wall",
+    "Link": "https://www.techrxiv.org/users/742397/articles/715050-csipose-unveiling-body-pose-using-commodity-wifi-devices-through-the-wall"
+  },
+  {
+    "Paper No.": 665,
+    "University": "UK CBT & NTU",
+    "Title": "Piercing the Veil of TVL: DeFi Reappraised",
+    "Year": 2025,
+    "Author": "Yichen Luo, Yebo Feng, Jiahua Xu, Paolo Tasca",
+    "Keywords": "Business / Economy / Finance; Blockchain, Decentralized Finance, Total Value Locked",
+    "Link": "https://arxiv.org/abs/2404.11745"
+  },
+  {
+    "Paper No.": 666,
+    "University": "NTU & UK CBT",
+    "Title": "Unmasking the Internet: A Survey of Fine?Grained Network Traffic Analysis",
+    "Year": 2025,
+    "Author": "Yebo Feng, Jun Li, Jelena Mirkovic, Cong Wu, Chong Wang, Hao Ren, Jiahua Xu, Yang Liu",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://doi.org/10.1109/COMST.2025.3545541"
+  },
+  {
+    "Paper No.": 667,
+    "University": "NTU",
+    "Title": "Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation",
+    "Year": 2025,
+    "Author": "Chong Wang, Jian Zhang, Yebo Feng, Tianlin Li, Weisong Sun, Yang Liu, Xin Peng",
+    "Keywords": "Computer Science; TOOLGEN, Repository-Level Dependencies, Trigger Insertion, Model Fine-tuning, Tool-Integrated Code Generation, Dependency Coverage, Static Validity Rate",
+    "Link": "https://arxiv.org/abs/2401.06391"
+  },
+  {
+    "Paper No.": 668,
+    "University": "UK CBT & NTU",
+    "Title": "Shared?Custodial Wallet for Multi?Party Crypto?Asset Management",
+    "Year": 2025,
+    "Author": "Yimika Erinle, Yebo Feng, Jiahua Xu, Nikhil Vadgama, Paolo Tasca",
+    "Keywords": "Business / Economy / Finance; Cryptocurrency Wallet, Crypto Assets, Multi?Party Computation, Wallet Security, Wallet Design, Key Management, Key Recovery",
+    "Link": "https://doi.org/10.3390/fi17010007"
+  },
+  {
+    "Paper No.": 669,
+    "University": "NTU",
+    "Title": "DynaShard: Secure and Adaptive Blockchain Sharding Protocol With Hybrid Consensus and Dynamic Shard Management",
+    "Year": 2024,
+    "Author": "Ao Liu, Jing Chen, Kun He, Ruiying Du, Jiahua Xu, Cong Wu, Yebo Feng, Teng Li, Jianfeng Ma",
+    "Keywords": "Computer Science; Blockchain Sharding, Cross-Shard Transactions, Secure Consensus, State Synchronization, Scalability",
+    "Link": "https://arxiv.org/abs/2411.06895"
+  },
+  {
+    "Paper No.": 670,
+    "University": "NTU",
+    "Title": "HETEROSAMPLE: Meta-path Guided Sampling for Heterogeneous Graph Representation Learning",
+    "Year": 2024,
+    "Author": "Ao Liu, Jing Chen, Ruiying Du, Cong Wu, Yebo Feng, Teng Li, Jianfeng Ma",
+    "Keywords": "Computer Science; Heterogeneous Graph, Graph Sampling, Meta-path, Representation Learning, Graph Neural Networks",
+    "Link": "https://arxiv.org/pdf/2411.07022"
+  },
+  {
+    "Paper No.": 671,
+    "University": "NTU & UK CBT",
+    "Title": "Heuristic-based Parsing System for Big Data Log",
+    "Year": 2024,
+    "Author": "Teng Li, Shengkai Zhang, Yebo Feng, Jiahua Xu, Zhuo Ma, Yulong Shen, Jianfeng Ma",
+    "Keywords": "Computer Science; Big Data, Log Parsing, Log Analysis, Training, System Runtime Logging, Accuracy",
+    "Link": "https://ieeexplore.ieee.org/document/10901555"
+  },
+  {
+    "Paper No.": 672,
+    "University": "NTU",
+    "Title": "DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications",
+    "Year": 2024,
+    "Author": "Maoyi Xie, Ming Hu, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, Yang Liu",
+    "Keywords": "Business / Economy / Finance; blockchain, decentralized finance (DeFi), price manipulation attack, smart contract",
+    "Link": "https://doi.org/10.1145/3650212.3652137"
+  },
+  {
+    "Paper No.": 674,
+    "University": "NTU",
+    "Title": "Empowering Embodied Agents with Semantic Intelligence",
+    "Year": 2025,
+    "Author": "Wenbing Tang, Meilin Zhu, Fenghua Wu, Xinfeng Li, Yang Liu",
+    "Keywords": null,
+    "Link": null
+  },
+  {
+    "Paper No.": 675,
+    "University": "USP",
+    "Title": "Definition of Objectives and Sustainable Alternatives for a Standing Forest Economy in the Amazon Region Using Problem Structuring Methods",
+    "Year": 2024,
+    "Author": "Amanda N. Ribeiro, Solange Garcia, Raizza Miranda, Tereza C. M. B. Carvalho, Ismael Nobre, Mischel Carmen N. Belderrain, Wilson C. Sousa Junior",
+    "Keywords": "Law / Social Science / Policy & Governance; Amazon forest, bioeconomy, standing forest economy, Amaz�nia?4.0, Value?Focused Thinking (VFT), Value?Focused Brainstorming (VFB)",
+    "Link": "https://doi.org/10.1590/0101-7438.2023.043.00274304"
+  },
+  {
+    "Paper No.": 676,
+    "University": "USP",
+    "Title": "Amazon Biobank: Assessing the Implementation of a Blockchain-Based Genomic Database",
+    "Year": 2024,
+    "Author": "Leonardo?T. Kimura, Felipe?K. Shiraishi, Ewerton?R. Andrade, Tereza?C.?M.?B. Carvalho, Marcos?A. Simplicio Jr.",
+    "Keywords": "Law / Social Science / Policy & Governance; Biodiversity, blockchains, genomic database, sustainable development, peer-to-peer computing",
+    "Link": "https://doi.org/10.1109/ACCESS.2024.3354716"
+  },
+  {
+    "Paper No.": 677,
+    "University": "USP",
+    "Title": "Bioindustrialization by Native People: A Systemic Management Approach to Foster Coevolution",
+    "Year": 2025,
+    "Author": "Raizza Miranda, Matthias Schwaninger, Mischel Belderrain, Aloisio Baniwa, Claudia Nobre, Tereza C. M. B. Carvalho, Andr�s Ochoa-Arias, Raissa Sato, Ismael Nobre, Pedro Nobre",
+    "Keywords": "Law / Social Science / Policy & Governance; Amazon Forest, Industry 4.0, Systems Thinking, Sustainability, Viable System Model",
+    "Link": "https://doi.org/10.21203/rs.3.rs-5925869/v1"
+  },
+  {
+    "Paper No.": 678,
+    "University": "USP",
+    "Title": "A Network of Science, Technology, and Innovation Hubs to Catalyze Regenerative Socio-Bioeconomies for the Amazon Region",
+    "Year": 2024,
+    "Author": "J. Marion Adeney, Lauro E.S. Barata, Francisco de Assis Costa, Brigitte Baptiste, Diego Oliveira Brand�o, Benito Ju�rez V�lez, Maritta Koch-Weser, Guilherme Oliveira, Herv� Rogez, Daniella Fartes dos Santos e Silva, Mariana Varese, Julia Arieira",
+    "Keywords": "Law / Social Science / Policy & Governance; N/A",
+    "Link": "https://files.unsdsn.org/A%20Network%20of%20Science%20Technology%20and%20Innovation%20Hubs.pdf"
+  },
+  {
+    "Paper No.": 679,
+    "University": "USP",
+    "Title": "Carbono?21: Promoting Forestation Through Digital Assets",
+    "Year": 2025,
+    "Author": "Pedro?H.?B. Correia, Marcos?A.?S. Simplicio?Jr.",
+    "Keywords": "Computer Science; Forestation, Platform Digital, Transparency, Tokenization, Digital Asset, Blockchain, Smart Contract, IPFS",
+    "Link": "https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/35878"
+  },
+  {
+    "Paper No.": 680,
+    "University": "USP",
+    "Title": "Carbono?21: Promoting Forestation Through Asset Tokenization",
+    "Year": 2025,
+    "Author": "Pedro?H.?B. Correia, Marcos?A.?S. Simplicio?Jr., Marco?M.?Marques, Christina?Miers, Marcelo?Pillon",
+    "Keywords": "Computer Science; Forestation, Platform Digital, Transparency, Tokenization, Digital Asset, Blockchain, Smart Contract, IPFS",
+    "Link": null
+  },
+  {
+    "Paper No.": 681,
+    "University": "USP",
+    "Title": "COTTONTRUST: Reliability and Traceability in Cotton Supply Chain Using Self?sovereign Identity",
+    "Year": 2024,
+    "Author": "Janaína F. B. Duarte, Gilson S. Junior, Gabriel F. C. da Silva, Maurício Pillon, Guilherme P. Koslovski, Charles C. Miers",
+    "Keywords": "Business / Economy / Finance; Self?sovereign Identity, Digital Identity, Supply Chain Traceability, Cotton, Reliability",
+    "Link": "https://doi.org/10.1007/978-3-031-57853-3_8"
+  },
+  {
+    "Paper No.": 682,
+    "University": "USP",
+    "Title": "Auditable messages with hash chain in instant messaging apps",
+    "Year": 2024,
+    "Author": "Andrea?E. Komo, Marcos?A.?S. Simplicio?Jr.",
+    "Keywords": "Computer Science; Hash Chain, Message Integrity, Selective Disclosure, Auditability, Instant Messaging Applications",
+    "Link": "http://dx.doi.org/10.5753/sbseg_estendido.2024.241723"
+  },
+  {
+    "Paper No.": 683,
+    "University": "USP",
+    "Title": "Exploring Strategic Resources and Open Innovation Practices in Regional Wine Clusters: Insights from SMEs in Brazil",
+    "Year": 2025,
+    "Author": "Ivanete Schneider Hahn, Alceu S. Camargo Junior, Leonardo Passarin, Moacir de M. Oliveira J�nior",
+    "Keywords": "Business / Economy / Finance; Open innovation, Strategic resources, Wine cluster, SMEs, Knowledge management, Innovation ecosystem, Regional competitiveness, Industrial property, Knowledge spillover",
+    "Link": "https://www.emerald.com/ijwbr/article/doi/10.1108/IJWBR-09-2024-0049/1251171/Exploring-strategic-resources-and-open-innovation"
+  },
+  {
+    "Paper No.": 685,
+    "University": "USP",
+    "Title": "Election Transparency: Monitoring Elections with Transparency Logs",
+    "Year": 2025,
+    "Author": "L.?Kimura, G.?Fumagali, Y.?Venturini, M.?Simplicio?Jr.",
+    "Keywords": "Computer Science; Election security, transparent logs, ballot auditing, voting",
+    "Link": "https://doi.org/10.36227/techrxiv.174062888.82211159/v1"
+  },
+  {
+    "Paper No.": 686,
+    "University": "USP",
+    "Title": "MOVChain: ESG Traceability Platform for the Automotive Supply Chain",
+    "Year": 2025,
+    "Author": "Pedro H. Souza, Jos� V. Zach�o, Marcelo Pillon, Charles Miers",
+    "Keywords": "Business / Economy / Finance",
+    "Link": null
+  },
+  {
+    "Paper No.": 687,
+    "University": "USP",
+    "Title": "Applying post-quantum cryptography algorithms to a DLT-based CBDC infrastructure: Comparative and feasibility analysis",
+    "Year": 2024,
+    "Author": "Daniel de Haro Moraes, Jo�o P. A. Pereira, Bruno E. Grossi, Gustavo Mirapalheta, George M. Smetana, Wesley Rodrigues, Courtnay Guimar�es Jr., Bruno Domingues, F�bio Saito, Marcos Simpl�cio",
+    "Keywords": "Business / Economy / Finance; CBDC, Security, PQC, DLT, TEE",
+    "Link": "https://eprint.iacr.org/2024/1206"
+  },
+  {
+    "Paper No.": 688,
+    "University": "USP",
+    "Title": "Introducing two ROS attack variants: breaking one-more unforgeability of BZ blind signatures",
+    "Year": 2025,
+    "Author": "A. Ricardo, L. Cardoso, L. Kimura, M. Simplicio Jr., P. Barreto",
+    "Keywords": "Computer Science; N/A",
+    "Link": null
+  },
+  {
+    "Paper No.": 689,
+    "University": "USP",
+    "Title": "On the Use of ECDSA with Hierarchical Public Key Delegation in Identity-based Scenarios",
+    "Year": 2025,
+    "Author": "L. Cardoso, M. Simplicio Jr.",
+    "Keywords": "Computer Science; N/A",
+    "Link": null
+  },
+  {
+    "Paper No.": 690,
+    "University": "USP",
+    "Title": "Adaptive Fuzzy Modeling and Forecasting of Financial Time Series",
+    "Year": 2024,
+    "Author": "Leandro Maciel, Rosangela Ballini, Fernando A. C. Gomide",
+    "Keywords": "Business / Economy / Finance; Adaptive Fuzzy Modeling, Level Set Fuzzy Modeling, Financial Time Series, Price Prediction, Cryptocurrencies",
+    "Link": "https://ieeexplore.ieee.org/document/10772811"
+  },
+  {
+    "Paper No.": 691,
+    "University": "USP",
+    "Title": "Market sentiment and the predictability of cryptocurrency risk premium using technical indicators",
+    "Year": 2024,
+    "Author": "Guilherme V. A. D. Freitas, Matias A. Lima, Gustavo Y. O. Yamachi, Leandro S. Maciel",
+    "Keywords": "Business / Economy / Finance; Risk premium, Cryptocurrencies, Forecasting, Market sentiment, Technical analysis",
+    "Link": "https://grcmlesydpcd.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/OQwcvnO-c63O08Gc2Kv4OTbJttj5ik60dguiDIyyQ0wuo5SWn-jHOLW9wNbylNqI/n/grcmlesydpcd/b/dtysppobjmntbkp01/o/media/doity/submissoes/artigo-1ec6fe18262841d9ef4ca11e0861acd4ed1e1b9c-arquivo.pdf"
+  },
+  {
+    "Paper No.": 692,
+    "University": "USP",
+    "Title": "A Sentiment?Driven Strategy for Cryptocurrency Portfolio Dynamic Optimization",
+    "Year": 2025,
+    "Author": "M. R. Barbosa, L. Maciel",
+    "Keywords": "Business / Economy / Finance; N/A",
+    "Link": null
+  },
+  {
+    "Paper No.": 693,
+    "University": "USP",
+    "Title": "A dynamic fuzzy modeling method for interval time series, and applications in range?based volatility prediction",
+    "Year": 2025,
+    "Author": "L. Maciel, G. Yamachi, V. Nazato, F. Gomide",
+    "Keywords": "Business / Economy / Finance; N/A",
+    "Link": null
+  },
+  {
+    "Paper No.": 694,
+    "University": "USP",
+    "Title": "Federated Learning in Smart Healthcare: A Survey of Applications, Challenges, and Future Directions",
+    "Year": 2025,
+    "Author": "Mohammad Nasajpour, Seyedamin Pouriyeh, Reza M. Parizi, Meng Han, Fatemeh Mosaiyebzadeh, Liyuan Liu, Yixin Xie, Daniel Mac�do Batista",
+    "Keywords": "Computer Science; smart healthcare; federated learning; artificial intelligence",
+    "Link": "https://doi.org/10.3390/electronics14091750"
+  },
+  {
+    "Paper No.": 695,
+    "University": "Stanford",
+    "Title": "LatticeFold+: Faster, Simpler, Shorter Lattice-Based Folding for Succinct Proof Systems",
+    "Year": 2025,
+    "Author": "Dan Boneh, Binyi Chen",
+    "Keywords": "Computer Science; Succinct Proof Systems, IVC/PCD, Folding, Lattice-based Cryptography",
+    "Link": "https://eprint.iacr.org/2025/247.pdf"
+  },
+  {
+    "Paper No.": 696,
+    "University": "Stanford",
+    "Title": "Context-Dependent Threshold Decryption and its Applications",
+    "Year": 2025,
+    "Author": "Dan Boneh, Benedikt B�nz, Kartik Nayak, Lior Rotem, Victor Shoup",
+    "Keywords": "Computer Science; Threshold Decryption, Atomic Broadcast",
+    "Link": "https://eprint.iacr.org/2025/279"
+  },
+  {
+    "Paper No.": 697,
+    "University": "Stanford",
+    "Title": "Kite: How to Delegate Voting Power Privately",
+    "Year": 2025,
+    "Author": "Kamilla Nazirkhanova, Vrushank Gunjur, X. Pilli Cruz-De Jesus, Dan Boneh",
+    "Keywords": "Computer Science; DAO, Private voting, Proxy Voting, Delegation Privacy",
+    "Link": "https://arxiv.org/abs/2501.05626"
+  },
+  {
+    "Paper No.": 698,
+    "University": "Princeton",
+    "Title": "Mapping the Landscape of Independent Food Delivery Platforms in the United States",
+    "Year": 2024,
+    "Author": "Yuhan Liu, Amna Liaqat, Owen Xingjian Zhang, Mariana Consuelo Fern�ndez Espinosa, Ankhitha Manjunatha, Alexander Yang, Orestis Papakyriakopoulos, Andr�s Monroy-Hern�ndez",
+    "Keywords": "Multidisciplinary; Gig economy, Food delivery, Infrastructure",
+    "Link": "https://dl.acm.org/doi/abs/10.1145/3637369"
+  },
+  {
+    "Paper No.": 699,
+    "University": "Columbia",
+    "Title": "Liquidity provision on blockchain-based decentralized exchanges",
+    "Year": 2025,
+    "Author": "Agostino Capponi, Ruizhe Jia",
+    "Keywords": "Business / Economy / Finance; Decentralized Finance (DeFi), Market Microstructure, automated market maker, tokenomics",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805095"
+  },
+  {
+    "Paper No.": 700,
+    "University": "CMU",
+    "Title": "Game Theoretic Liquidity Provisioning in Concentrated Liquidity Market Makers",
+    "Year": 2025,
+    "Author": "Weizhao Tang, Rachid El-Azouzi, Cheng Han Lee, Ethan Chan, Giulia Fanti",
+    "Keywords": "Business / Economy / Finance; Automated Market Maker, Blockchains, Decentralized Cryptocurrency Exchanges, Game Theory, Nash Equilibrium",
+    "Link": "https://dl.acm.org/doi/abs/10.1145/3711700"
+  },
+  {
+    "Paper No.": 701,
+    "University": "Bern",
+    "Title": "Anonymous Self-Credentials and their Application to Single-Sign-On",
+    "Year": 2025,
+    "Author": "Jayamine Alupotha, Mariarosaria Barbaraci, Ioannis Kaklamanis, Abhimanyu Rawat, Christian Cachin, Fan Zhang",
+    "Keywords": "Computer Science; Anonymity, Unlinkability, Single Sign-On, Digital Identities, User-Centric Privacy",
+    "Link": "https://eprint.iacr.org/2025/618.pdf"
+  },
+  {
+    "Paper No.": 702,
+    "University": "Bern",
+    "Title": "Toxic Decoys: A Path to Scaling Privacy-Preserving Cryptocurrencies",
+    "Year": 2025,
+    "Author": "Christian Cachin, Fran�ois-Xavier Wicht",
+    "Keywords": "Computer Science; Anonymous cryptocurrencies, Untraceability, Partitioning",
+    "Link": "https://petsymposium.org/popets/2025/popets-2025-0165.pdf"
+  },
+  {
+    "Paper No.": 703,
+    "University": "CMU",
+    "Title": "Tokenomics Impact on User Behavior: Observations from NFT-Collateralized Lending Platforms",
+    "Year": 2025,
+    "Author": "Jin-Dong Dong, Daisuke Kawai, Nicolas Christin",
+    "Keywords": "Business / Economy / Finance; N/A",
+    "Link": "https://www.andrew.cmu.edu/user/nicolasc/publications/Dong-WEIS25.pdf"
+  },
+  {
+    "Paper No.": 704,
+    "University": "CMU",
+    "Title": "Blockchain Amplification Attack",
+    "Year": 2025,
+    "Author": "Taro Tsuchiya, Liyi Zhou, Kaihua Qin, Arthur Gervais, Nicolas Christin",
+    "Keywords": "Computer Science; Blockchain, Security, DoS, P2P network, Ethereum",
+    "Link": "https://www.andrew.cmu.edu/user/nicolasc/publications/Tsuchiya-SIGMETRICS25.pdf"
+  },
+  {
+    "Paper No.": 705,
+    "University": "Kyoto University",
+    "Title": "Anomaly Detection and Facilitation AI to Empower Decentralized Autonomous Organizations for Secure Crypto-Asset Transactions",
+    "Year": 2025,
+    "Author": "Yuichi Ikeda, Rafik Hadfi, Takayuki Ito, Akihiro Fujihara",
+    "Keywords": "Markets, Trading, Anomaly Detection, Blockchain, Smart Contracts, Decentralized Autonomous Organization, Cyber-physical Systems, Token Economy, AI, Conversational AI, Agents, Multiagent Systems, Natural Language Processing, Boltzmann Machine, Graph Laplacian, Correlation Tensors, Democracy, Governance",
+    "Link": "https://link.springer.com/article/10.1007/s00146-024-02166-w"
+  },
+  {
+    "Paper No.": 706,
+    "University": "Waterloo",
+    "Title": "Accelerating EdDSA Signature Verification with Faster Scalar Size Halving",
+    "Year": 2025,
+    "Author": "Muhammad ElSheikh, ?rem Keskinkurt Paksoy, Murat Cenk, M. Anwar Hasan",
+    "Keywords": "Computer Science; atch Verification, EdDSA, Scalars, Signature, Verification",
+    "Link": "https://tches.iacr.org/index.php/TCHES/article/view/12225"
+  },
+  {
+    "Paper No.": 707,
+    "University": "Waterloo",
+    "Title": "Evaluating the Integration of Aurora Zksnark in the Zupply Framework",
+    "Year": 2025,
+    "Author": "Mohammadtaghi Badakhshan, Guang Gong",
+    "Keywords": "Computer Science; zkSNARK, Transparent Setup, Post-Quantum, Security, Supply Chain Management, Implementation",
+    "Link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11029568"
+  },
+  {
+    "Paper No.": 708,
+    "University": "Waterloo",
+    "Title": "Accelerating Post-quantum Secure zkSNARKs by Optimizing Additive FFT",
+    "Year": 2025,
+    "Author": "M Badakhshan, S Samanta, G Gong",
+    "Keywords": "Computer Science; Post-quantum secure zkSNARK, R1CS , Aurora , Additive, FFT , Cantor Algorithm , Gao�Mateer Algorithm",
+    "Link": "https://sacworkshop.org/SAC25/preproceedings/sac2025-2-paper17.pdf"
+  },
+  {
+    "Paper No.": 709,
+    "University": "Waterloo",
+    "Title": "zkMaP: Zero-Knowledge Succinct Non-Interactive Matrix Multiplication Proofs",
+    "Year": 2025,
+    "Author": "Biniyam Deressa, M. Anwar Hasan",
+    "Keywords": "Computer Science; Zero-Knowledge Proofs, Succinct Non-Interactive Arguments, Matrix Multiplication, Polynomial Commitments, Batch Verification",
+    "Link": "https://cic.iacr.org/p/2/3/23/pdf"
+  },
+  {
+    "Paper No.": 710,
+    "University": "Waterloo",
+    "Title": "Efficient Methods for Simultaneous Homomorphic Inversion",
+    "Year": 2025,
+    "Author": "Jean Belo Klamti, M. Anwarul Hasan, Koray Karabina",
+    "Keywords": "Computer Science; Fully homomorphic encryption Homomorphic inversion Goldschmidt inversion Montgomery's trick.",
+    "Link": "https://cic.iacr.org/p/2/1/36"
+  },
+  {
+    "Paper No.": 711,
+    "University": "Waterloo",
+    "Title": "GasGuard: An LLM-Based Automated Gas Vulnerability Detection and Mitigation System",
+    "Year": 2025,
+    "Author": "Behkish Nassirzadeh",
+    "Keywords": "Computer Science",
+    "Link": null
+  },
+  {
+    "Paper No.": 712,
+    "University": "Waterloo",
+    "Title": "A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC",
+    "Year": 2025,
+    "Author": "J Tafese, S Priya, G Losa, A Gurfinkel, G Hoare",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://fmcad.org/FMCAD25/"
+  },
+  {
+    "Paper No.": 713,
+    "University": "Waterloo",
+    "Title": "Self-Tallying E-Voting using Homomorphic Time-Lock Puzzles and zk-SNARKs",
+    "Year": 2025,
+    "Author": "M. ElSheikh, A. M. Youssef, M. A. Hasan",
+    "Keywords": "Computer Science; Blockchain, e-voting, privacy, self-tallying, timelock puzzles, VDF, verifiability, zk-SNARK.",
+    "Link": "https://ieeexplore.ieee.org/abstract/document/10922163"
+  },
+  {
+    "Paper No.": 714,
+    "University": "Trinity",
+    "Title": "Implementation of Privacy-Preserving Identifiers for the Secure Storage of Electronic Health Records on the Ethereum Blockchain",
+    "Year": 2025,
+    "Author": "Swati Kumari, Hitesh Tewari",
+    "Keywords": "Computer Science; blockchain, healthcare, identity, biometrics, hashing, revocability",
+    "Link": "https://dl.acm.org/doi/10.1145/3743695"
+  },
+  {
+    "Paper No.": 718,
+    "University": "Trinity",
+    "Title": "A Blockchain-Native PKI: Secure X.509 Certificate Management on the XRP Ledger",
+    "Year": 2025,
+    "Author": "Harsha Vardhan, Prab Hiranayachatri, Atharva Lele, Hitesh Tewari",
+    "Keywords": "Computer Science; X.509, PKI, TLS, Blockchain, XRPL",
+    "Link": null
+  },
+  {
+    "Paper No.": 719,
+    "University": "Trinity",
+    "Title": "The Zcash Protocol Explained: A Journey into Privacy-Preserving Cryptography",
+    "Year": 2025,
+    "Author": "Atharva Lele, Hitesh Tewari",
+    "Keywords": "Computer Science; Zcash, Tornado Cash, Bitcoin, zk-SNARKs, Merkle Trees",
+    "Link": null
   }
 ]
