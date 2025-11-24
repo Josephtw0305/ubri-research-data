@@ -5002,5 +5002,14 @@
     "Author": "Chien-Chih Chen, Wojciech Golab",
     "Keywords": "Incentive Compatibility, Bayesian Games, Proof of Stake, Blockchain\nSecurity, Device Offline, Eth2",
     "Link": "https://arxiv.org/pdf/2405.03357"
+  },
+  {
+    "Paper No.": 560,
+    "University": "University of Bern",
+    "Title": "A Distributed Service for Threshold Cryptography On-Demand",
+    "Year": 2025,
+    "Author": "Orestis Alpos, Mariarosaria Barbaraci, Christian Cachin, Noah Schmid, Michael Senn",
+    "Keywords": "Threshold cryptosystems, distributed algorithms",
+    "Link": "https://doi.org/10.1145/3626564.3629100"
   }
 ]
