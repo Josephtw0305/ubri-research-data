@@ -5011,5 +5011,734 @@
     "Author": "Orestis Alpos, Mariarosaria Barbaraci, Christian Cachin, Noah Schmid, Michael Senn",
     "Keywords": "Threshold cryptosystems, distributed algorithms",
     "Link": "https://doi.org/10.1145/3626564.3629100"
+  },
+  {
+    "Paper No.": 561,
+    "University": "University of Cape Town",
+    "Title": "Discussants",
+    "Year": 2022,
+    "Author": "Michael E. Rose, Daniel C. Opolot, Co-Pierre Georg",
+    "Keywords": "Multidisciplinary; Informal collaboration, Academic production function, NBER Summer Institutes",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S004873332200110X"
+  },
+  {
+    "Paper No.": 562,
+    "University": "University of Cape Town",
+    "Title": "Social Learning in a Network Model of COVID-19",
+    "Year": 2023,
+    "Author": "Allan Davids, Gideon du Rand, Co-Pierre Georg, Tina Koziol, Joeri Schasfoort",
+    "Keywords": "Multidisciplinary; Covid-19, Social learning, DeGroot model, Epidemiological network model, Vaccination strategy",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0167268123002433#:~:text=Introducing%20social%20learning%20together%20with,%25%20and%20deaths%20by%205.1%25."
+  },
+  {
+    "Paper No.": 563,
+    "University": "University of Cape Town",
+    "Title": "Exit Spirals in Coupled Networked Markets",
+    "Year": 2023,
+    "Author": "Christoph Aymanns, Co-Pierre Georg, Benjamin Golub",
+    "Keywords": "Computer Science; Over-the-counter markets, Networks, Strategic complementarity",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2881814"
+  },
+  {
+    "Paper No.": 564,
+    "University": "University of Cape Town",
+    "Title": "Similar Investors",
+    "Year": 2024,
+    "Author": "Co-Pierre Georg, Diane Pierret, Sascha Steffen",
+    "Keywords": "Business / Economy / Finance; Institutional investors, Liquidity risk, Portfolio similarity, Wholesale funding",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3250826"
+  },
+  {
+    "Paper No.": 565,
+    "University": "University of Cape Town",
+    "Title": "Central bank digital currency global interoperability principles",
+    "Year": 2023,
+    "Author": "Worldd Economic Forum",
+    "Keywords": "Multidisciplinary; N/A",
+    "Link": "https://www3.weforum.org/docs/WEF_Central_Bank_Digital_Currency_Global_Interoperability_Principles_2023.pdf"
+  },
+  {
+    "Paper No.": 566,
+    "University": "Rutgers",
+    "Title": "Regulatory Fragmentation: Investor Reaction to SEC and CFTC Enforcement in Crypto",
+    "Year": 2023,
+    "Author": "Yuliya Guseva, Irena Hutton",
+    "Keywords": "Business / Economy / Finance; Digital assets, Financial innovation, Financial reform, Cryptoassets, The SEC, The CFTC, Regulatory fragmentation",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249503"
+  },
+  {
+    "Paper No.": 567,
+    "University": "Rutgers",
+    "Title": "The Economic Reality of NFT Securities",
+    "Year": 2024,
+    "Author": "Yuliya Guseva",
+    "Keywords": "Business / Economy / Finance; NFT, Blockchain, Securities law, Economic reality, Financial regulation, Reform",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4597447"
+  },
+  {
+    "Paper No.": 568,
+    "University": "Rutgers",
+    "Title": "On the Codependence of CBDCs and Stablecoins (On the Coexistence of Stablecoins and Central Bank Digital Currencies), (ON INNOVATION AND THE COEXISTENCE OF STABLECOINS AND CENTRAL BANK DIGITAL CURRENCIES )",
+    "Year": 2024,
+    "Author": "Yuliya Guseva, Sangita Gazi, Douglas Eakeley",
+    "Keywords": "Business / Economy / Finance; CBDC, stablecoin, Federal Reserve, financial regulation, innovation",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4709282"
+  },
+  {
+    "Paper No.": 569,
+    "University": "Nicosia",
+    "Title": "Validating the Blockchain Benchmarking Framework Through Controlled Deployments of XRPL and Ethereum",
+    "Year": 2024,
+    "Author": "Marios Touloupou, Klitos Christodoulou, Marinos Themistocleous",
+    "Keywords": "Computer Science; Benchmarking framework, Blockchain applications, Blockchain resilience, Blockchain technology, Performance analysis",
+    "Link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10427547"
+  },
+  {
+    "Paper No.": 570,
+    "University": "Trinity College Dublin",
+    "Title": "Implementation of Privacy-Preserving Identifiers for the Secure Storage of Electronic Health Records on the Ethereum Blockchain",
+    "Year": 2025,
+    "Author": "Swati Kumari, Hitesh Tewari",
+    "Keywords": "Computer Science; Security and privacy, Privacy-preserving protocols, Blockchain, Healthcare, Identity, Biometrics, Hashing, Revocability",
+    "Link": "Revised_Privacy_preserving_identifier.pdf"
+  },
+  {
+    "Paper No.": 571,
+    "University": "University of Bern",
+    "Title": "Security Analysis of Ripple Consensus",
+    "Year": 2021,
+    "Author": "Ignacio Amores-Sesar, Christian Cachin, Jovana Mićić",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://arxiv.org/abs/2011.14816"
+  },
+  {
+    "Paper No.": 572,
+    "University": "Cornell",
+    "Title": "Information Cascades and Threshold Implementation: Theory and An Application to Crowdfunding",
+    "Year": 2024,
+    "Author": "Lin William Cong, Yizhou Xiao",
+    "Keywords": "Business / Economy / Finance; N/A",
+    "Link": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13293"
+  },
+  {
+    "Paper No.": 573,
+    "University": "Cornell",
+    "Title": "Small and Medium Enterprises Amidst the Pandemic and Reopening: Digital Edge and Transformation",
+    "Year": 2024,
+    "Author": "Lin William Cong, Xiaohan Yang, Xiaobo Zhang",
+    "Keywords": "Multidisciplinary; SMEs, COVID-19, Digital economy, E-commerce",
+    "Link": "https://pubsonline.informs.org/doi/10.1287/mnsc.2023.02424"
+  },
+  {
+    "Paper No.": 574,
+    "University": "Cornell",
+    "Title": "Opportunities and Challenges Associated with the Development of FinTech and Central Bank Digital Currency",
+    "Year": 2024,
+    "Author": "Stijn Claessens, Lin William Cong, Fariborz Moshirian, Cyn-Young Park",
+    "Keywords": "Business / Economy / Finance; Central Bank Digital Currency, Regulation of CBDC in the United States and the European Union, CBDC Landscape in Asia, Potential Future Research Directions",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S1572308924000652"
+  },
+  {
+    "Paper No.": 575,
+    "University": "Cornell",
+    "Title": "Influencer Marketing and Product Competition",
+    "Year": 2024,
+    "Author": "Lin William Cong, Siguang Li",
+    "Keywords": "Business / Economy / Finance; Creator Economy, Digital Economy, Internet Celebrity, Industrial Organization, Streaming",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0022053124000735"
+  },
+  {
+    "Paper No.": 576,
+    "University": "Cornell",
+    "Title": "Distributed Ledgers and Secure Multi-Party Computation for Auditing and Financial Reporting",
+    "Year": 2024,
+    "Author": "Sean Shun Cao, Lin William Cong, Baozhong Yang",
+    "Keywords": "Multidisciplinary; N/A",
+    "Link": "https://pubsonline.informs.org/doi/10.1287/mnsc.2023.02577"
+  },
+  {
+    "Paper No.": 577,
+    "University": "U.C. Berkeley",
+    "Title": "Do Behavioral Frictions Prevent Firms from Adopting Profitable Opportunities?",
+    "Year": 2025,
+    "Author": "Paul Gertler, Sean Higgins, Ulrike Malmendier, Waldo Ojeda",
+    "Keywords": "Business / Economy / Finance; Managerial Inertia, FinTech, Trust, Memory, Present Bias, Firms, Mexico",
+    "Link": "https://seankhiggins.com/assets/pdf/BehavioralFirmsProfitableOpportunities.pdf"
+  },
+  {
+    "Paper No.": 578,
+    "University": "U.C. Berkeley",
+    "Title": "FinTech Lending to Borrowers with No Credit History",
+    "Year": 2025,
+    "Author": "Laura Chioda, Paul Gertler, Sean Higgins, Paolina Medina",
+    "Keywords": "Multidisciplinary; FinTech, Lending, Machine Learning, Financial Inclusion, Profits",
+    "Link": "https://seankhiggins.com/assets/pdf/ChiodaGertlerHigginsMedina_FinTechLendingToBorrowersWithNoCreditHistory.pdf"
+  },
+  {
+    "Paper No.": 579,
+    "University": "U.C. Berkeley",
+    "Title": "Mortgage Policies and their Effects on Racial Segregation and Upward Mobility",
+    "Year": 2022,
+    "Author": "Nirupama Kulkarni, Ulrike Malmendier",
+    "Keywords": "Law / Social Science / Policy & Governance; Upward mobility, homeownership, segregation",
+    "Link": "https://www.cafral.org.in/sfControl/content/Speech/78202125342PMMortgagePolicies.pdf"
+  },
+  {
+    "Paper No.": 580,
+    "University": "U.C. Berkeley",
+    "Title": "Reinforcing RCTs with Multiple Priors while Learning about External Validity",
+    "Year": 2024,
+    "Author": "Frederico Finan, Demian Pouzo",
+    "Keywords": "Computer Science; Reinforcement Learning, External Validity, RCTs, Multiple Priors, Bayesian Learning.",
+    "Link": "https://arxiv.org/abs/2112.09170"
+  },
+  {
+    "Paper No.": 581,
+    "University": "U.C. Berkeley",
+    "Title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo",
+    "Year": 2024,
+    "Author": "Zoe Kahn, Meyebinesso Farida Carelle Pere, Emily Aiken, Nitin Kohli, Joshua E. Blumenstock",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://arxiv.org/pdf/2409.17578"
+  },
+  {
+    "Paper No.": 582,
+    "University": "U.C. Berkeley",
+    "Title": "Enabling Humanitarian Applications with Targeted Differential Privacy",
+    "Year": 2024,
+    "Author": "Nitin Kohli, Joshua Blumenstock",
+    "Keywords": "Multidisciplinary; N/A",
+    "Link": "https://arxiv.org/abs/2408.13424"
+  },
+  {
+    "Paper No.": 583,
+    "University": "U.C. Berkeley",
+    "Title": "Dynastic Home Equity",
+    "Year": 2025,
+    "Author": "Matteo Benetton, Marianna Kudlyak, John Mondragon",
+    "Keywords": "Multidisciplinary; Home equity, mortgages, household finance, family, inequality.",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4158773"
+  },
+  {
+    "Paper No.": 584,
+    "University": "U.C. Berkeley",
+    "Title": "Revolving Credit to SMEs: The Role of Business Credit Cards",
+    "Year": 2024,
+    "Author": "Matteo Benetton, Greg Buchak",
+    "Keywords": "Business / Economy / Finance; Small business lending, credit cards, revolving credit, market power, liquidity, competition, capital regulation",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4997456"
+  },
+  {
+    "Paper No.": 585,
+    "University": "TU Delft",
+    "Title": "A Benchmark Framework for Byzantine Fault Tolerance Testing Algorithms",
+    "Year": 2025,
+    "Author": "João Miguel Louro Neto, Burcu Kulahcioglu Ozkan",
+    "Keywords": "Computer Science; Byzantine Fault Tolerance, BFT Protocols, Automated Testing",
+    "Link": "https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.13/OASIcs.FMBC.2025.13.pdf"
+  },
+  {
+    "Paper No.": 586,
+    "University": "TU Delft",
+    "Title": "Rocket: A System-Level Fuzz-Testing Framework for the XRPL Consensus Algorithm",
+    "Year": 2025,
+    "Author": "Wishaal Kanhai, Ivar van Loon, Yuraj Mangalgi, Thijs Van der Valk, Lucas Witte, Annibale Panichella, Mitchell Olsthoorn, Burcu Kulahcioglu Ozkan",
+    "Keywords": "Computer Science; Byzantine fault-tolerance, Consensus algorithms, XRP Ledge",
+    "Link": "https://www.computer.org/csdl/proceedings-article/icst/2025/10988979/26S4EBOHJ0A"
+  },
+  {
+    "Paper No.": 587,
+    "University": "EUI",
+    "Title": "Empowering personal data sovereignty in hyper-realistic Metaverse avatars through blockchain technology",
+    "Year": 2025,
+    "Author": "Natalia Menéndez González",
+    "Keywords": "Computer Science; Metaverse, Hyper-realistic avatars, Data protection, Personal data, Biometric data, Blockchain",
+    "Link": "https://www.elgaronline.com/view/journals/ielr/8/1/article-p43.xml"
+  },
+  {
+    "Paper No.": 588,
+    "University": "Korea University",
+    "Title": "GrAC: Graph-Based Anonymous Credentials from Identity Graphs on Blockchain.",
+    "Year": 2024,
+    "Author": "Wenyi Tang, Shankha Shubhra Mukherjee, Seongho Park, Changhao Chenli, Hyunok Oh, Jihye Kim, Taeho Jung",
+    "Keywords": "Computer Science; Decentralized Identity Management, Verifiable Credentials, Privacy, Blockchain",
+    "Link": "https://www.computer.org/csdl/proceedings-article/blockchain/2024/515900a113/20l5gYt6NUc"
+  },
+  {
+    "Paper No.": 589,
+    "University": "Korea University",
+    "Title": "Sustainable Blockchain-Based Multi-Party Micropayment System",
+    "Year": null,
+    "Author": null,
+    "Keywords": null,
+    "Link": null
+  },
+  {
+    "Paper No.": 590,
+    "University": "Korea University",
+    "Title": "SAVER: SNARK-compatible Verifiable Encryption",
+    "Year": 2025,
+    "Author": "Jiwon Lee, Jaekyoung Choi, Jihye Kim, Hyunok Oh",
+    "Keywords": "Computer Science; zk-SNARK, verifiable encryption, encrypt-and-prove",
+    "Link": "https://fc24.ifca.ai/preproceedings/61.pdf"
+  },
+  {
+    "Paper No.": 591,
+    "University": "Toronto",
+    "Title": "Privacy and Compliance Design Options in Offline Central Bank Digital Currencies",
+    "Year": 2025,
+    "Author": "Panagiotis Michalopoulos, Odunayo Olowookere, Nadia Pocher",
+    "Keywords": "Computer Science; Anonymity, CBDC, compliance by design, offline payments, secure computation, secure hardware",
+    "Link": "https://www.eecg.utoronto.ca/~veneris/TNSM25.pdf"
+  },
+  {
+    "Paper No.": 592,
+    "University": "Toronto",
+    "Title": "Option Contracts in the DeFi Ecosystem: Opportunities, Solutions, and Technical Challenges",
+    "Year": 2025,
+    "Author": "Srisht Fateh Singh, Vladyslav Nekriach, Panagiotis Michalopoulos, Andreas Veneris, Jeffrey Klinck",
+    "Keywords": "Multidisciplinary; CEX, Cryptocurrency, Decentralized Finance, DeFi, Derivatives, DEX, Options, Volatility",
+    "Link": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/nem.70005"
+  },
+  {
+    "Paper No.": 593,
+    "University": "Toronto",
+    "Title": "A Variational Autoencoder Approach to Conditional Generation of Possible Future Volatility Surfaces",
+    "Year": 2025,
+    "Author": null,
+    "Keywords": "Multidisciplinary; Implied volatility surfaces, variational autoencoders, long short-term memory",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4628457"
+  },
+  {
+    "Paper No.": 594,
+    "University": "Toronto",
+    "Title": "On Tokenizing Securities in Contemporary Decentralized Finance Ecosystems",
+    "Year": 2024,
+    "Author": "Reina Ke Xin Li, Srisht Fateh Singh, Andreas Park, Andreas Veneris",
+    "Keywords": "Computer Science; Tokenization, Blockchains, Finance, Smart Contracts, Decentralized Applications",
+    "Link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10732268"
+  },
+  {
+    "Paper No.": 595,
+    "University": "Toronto",
+    "Title": "Safeguarding DeFi Smart Contracts against Oracle Deviations",
+    "Year": 2024,
+    "Author": "Xun Deng, Sidi Mohamed Beillahi, Cyrus Minwalla, Han Du, Andreas Veneris, Fan Long",
+    "Keywords": "Computer Science; Blockchain, Decentralized Finance, Smart Contracts, Oracle Deviation, Static Program Analysis, Code Summary, Parameter Optimization",
+    "Link": "https://dl.acm.org/doi/abs/10.1145/3597503.3639225"
+  },
+  {
+    "Paper No.": 597,
+    "University": "Toronto",
+    "Title": "HEMVM: a Heterogeneous Blockchain Framework for Interoperable Virtual Machines",
+    "Year": 2025,
+    "Author": "Vladyslav Nekriach, Sidi Mohammed Belliahi, Chenxing Li, Peilun Li, Ming Wu, Andreas Veneris, Fan Long",
+    "Keywords": "Computer Science; blockchain, virutal machine, Aptos, Move, Ethereum, EVM, Conflux, Solidity",
+    "Link": "https://www.eecg.utoronto.ca/~veneris/OOPSLA25.pdf"
+  },
+  {
+    "Paper No.": 598,
+    "University": "Toronto",
+    "Title": "A Note on Privacy and Compliance for Stablecoins",
+    "Year": 2025,
+    "Author": null,
+    "Keywords": "Law / Social Science / Policy & Governance; Payment systems, blockchain, stablecoins, privacy, AML/CFT compliance, Financial regulation",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242230#:~:text=This%20note%20posits%20a%20compliance,by%20ledger%2Dembedded%20smart%20contracts."
+  },
+  {
+    "Paper No.": 599,
+    "University": "IE Madrid",
+    "Title": "Governance and Value Creation in Blockchain Platforms for Financial Inclusion",
+    "Year": 2024,
+    "Author": "Alvaro Arenas, Rebecca Trivelli",
+    "Keywords": "Business / Economy / Finance; Blockchain Platforms, Blockchain Governance, Value Creation, Financial Inclusion.",
+    "Link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1030&context=mcis2024"
+  },
+  {
+    "Paper No.": 600,
+    "University": "UCL/UK CBT",
+    "Title": "FTX’s downfall and Binance’s consolidation: The fragility of centralised digital finance",
+    "Year": 2023,
+    "Author": "David Vidal-Tomás, Antonio Briola, Tomaso Aste",
+    "Keywords": "Multidisciplinary; Cryptocurrency, FTX, Terra-Luna, Binance, Network Science",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S037843712300599X"
+  },
+  {
+    "Paper No.": 601,
+    "University": "UCL/UK CBT",
+    "Title": "Energy Demand Unawareness and the Popularity of Bitcoin: Evidence from Nigeria",
+    "Year": 2023,
+    "Author": "Moritz Platt, Stephen Ojeka, Andreea-Elena Drăgnoiu, Oserere Ejemen Ibelegbu, Francesco Pierangeli, Johannes Sedlmeir, Zixin Wang",
+    "Keywords": "Others; Survey, Energy Demand, Proof of Work, Cryptocurrency Mining, Electricity Demand, Energy-Efficiency Label",
+    "Link": "https://doi.org/10.1093/ooenergy/oiad012"
+  },
+  {
+    "Paper No.": 602,
+    "University": "UCL/UK CBT",
+    "Title": "Proof-of-Stake Cryptoeconomics Design: A General Framework of Modeling and Evaluation",
+    "Year": 2024,
+    "Author": "Sheng-Nan Li, Jiahua Xu, Paolo Tasca, Claudio J. Tessone",
+    "Keywords": "Computer Science; Proof-of-Stake, Cryptoeconomics, Agent-based Modeling, Incentives Design, Decentralization",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5072963"
+  },
+  {
+    "Paper No.": 603,
+    "University": "UCL/UK CBT",
+    "Title": "Bitcoin’s Carbon Footprint Revisited: Proof of Work Mining for Renewable Energy Expansion",
+    "Year": 2024,
+    "Author": "Juan Ignacio Ibañez, Alexander Freier",
+    "Keywords": "Multidisciplinary; Blockchain, Environmental Impact, Decarbonization, Ancillary Services, Flexible Load Response, Sustainability, Renewable Energy Sources",
+    "Link": "https://www.mdpi.com/2078-1547/14/3/35"
+  },
+  {
+    "Paper No.": 604,
+    "University": "UCL/UK CBT",
+    "Title": "REA, Triple-Entry Accounting and Blockchain: Converging Paths to Shared Ledger Systems",
+    "Year": 2023,
+    "Author": "Juan Ignacio Ibañez, Chris N. Bayer, Paolo Tasca, Jiahua Xu",
+    "Keywords": "Computer Science; Triple-Entry Accounting, REA Accounting Model, Single Source of Truth, Blockchain, Distributed Ledger Technology",
+    "Link": "https://www.mdpi.com/1911-8074/16/9/382"
+  },
+  {
+    "Paper No.": 605,
+    "University": "EUI",
+    "Title": "Blockchain for avatar data governance: privacy- enhancing Metaverse?",
+    "Year": 2024,
+    "Author": "Natalia Menéndez González",
+    "Keywords": "Multidisciplinary; Metaverse, hyper-realistic avatars, data protection, personal data, biometric data, blockchain",
+    "Link": "https://catedrametaverso.ua.es/wp-content/uploads/2024/07/Blockchain-for-avatar-data-governance-privacy-enhancing-Metaverse-MENENDEZ.pdf"
+  },
+  {
+    "Paper No.": 606,
+    "University": "EUI",
+    "Title": "Blockchain interoperability : implications for EU competition law and data protection law",
+    "Year": 2025,
+    "Author": "Klaudia Majcher, Marco Botta",
+    "Keywords": "Multidisciplinary; Distributed Ledger Technology; blockchain interoperability; data sharing; EU competition law; EU data protection law; EU General Data Protection Regulation",
+    "Link": "https://cadmus.eui.eu/server/api/core/bitstreams/acda0f04-2b5d-5912-bed9-86495d79cd5f/content"
+  },
+  {
+    "Paper No.": 607,
+    "University": "University of Cape Town",
+    "Title": "Vulnerability Webs: Systemic Risk in Software Networks",
+    "Year": 2024,
+    "Author": "Cornelius Fritz, Co-Pierre Georg, Angelo Mele, Michael Schweinberger",
+    "Keywords": "Computer Science; Economics of Software Development, Dependency Graphs, Strategic Network Formation, Exponential Random Graphs",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013411"
+  },
+  {
+    "Paper No.": 608,
+    "University": "University of Cape Town",
+    "Title": "Estimating Value at Risk and Expected Shortfall: A Kalman Filter Approach",
+    "Year": 2024,
+    "Author": "Max van der Lecq, Gary van Vuuren",
+    "Keywords": "Computer Science; Kalman filter, Value-at-Risk, Expected Shortfall",
+    "Link": "https://www.econjournals.com/index.php/ijefi/article/view/15184"
+  },
+  {
+    "Paper No.": 609,
+    "University": "University of Cape Town",
+    "Title": "The Dynamic Effects of Blockchain-based Identity Management Adoption on Data Breaches",
+    "Year": 2024,
+    "Author": "Sarah Mulombo Mulaji, Irwin Brown, Sumarie Roodt",
+    "Keywords": "Computer Science; Blockchain-Based Identity Management, Long-Term Effects, Self-Sovereign Identity Post-Adoption Dynamics, Data Breach, Privacy and Security, System Circular Causality",
+    "Link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1847&context=hicss-57"
+  },
+  {
+    "Paper No.": 610,
+    "University": "Waterloo",
+    "Title": "Finding Unchecked Low-Level Calls with Zero False Positives and Negatives in Ethereum Smart Contracts",
+    "Year": 2023,
+    "Author": "Puneet Gill, Indrani Ray, Alireza Lotfi Takami, Mahesh Tripunitara",
+    "Keywords": "Computer Science; Smart Contract, Security Vulnerability, Unchecked Low-Level Calls, Model Checking, Linear Temporal Logic (LTL)",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-30122-3_19"
+  },
+  {
+    "Paper No.": 611,
+    "University": "Waterloo",
+    "Title": "Fast Approximations of Quantifier Elimination",
+    "Year": 2023,
+    "Author": "Isabel Garcia-Contreras, V. K. Hari Govind, Sharon Shoham, Arie Gurfinkel",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-37703-7_4"
+  },
+  {
+    "Paper No.": 612,
+    "University": "Waterloo",
+    "Title": "Efficient Modular SMT-Based Model Checking of Pointer Programs",
+    "Year": 2022,
+    "Author": "Isabel Garcia-Contreras, Arie Gurfinkel, Jorge A. Navas",
+    "Keywords": "Computer Science; Modular Verification, Software Model Checking, Constrained Horn Clauses, Pointer Analysis",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-22308-2_11"
+  },
+  {
+    "Paper No.": 613,
+    "University": "Waterloo",
+    "Title": "Antipaxos: Taking Interactive Consistency to the Next Level",
+    "Year": 2024,
+    "Author": "Chunyu Mao, Wojciech Golab, Bernard Wong",
+    "Keywords": "Computer Science; Consensus, Fault tolerance, Leaderless protocols, Parameterized protocols",
+    "Link": "https://www.sciencedirect.com/science/article/pii/S0743731524000030"
+  },
+  {
+    "Paper No.": 614,
+    "University": "Waterloo",
+    "Title": "Fast Computation of Multi-Scalar Multiplication for Pairing-Based zkSNARK Applications",
+    "Year": 2023,
+    "Author": "Guiwen Luo, Guang Gong",
+    "Keywords": "Computer Science; Multi-scalar multiplication, zkSNARK, Privacy preserving blockchain",
+    "Link": "https://ieeexplore.ieee.org/document/10174952"
+  },
+  {
+    "Paper No.": 615,
+    "University": "Waterloo",
+    "Title": "Ursa Minor: The Implementation Framework for Polaris",
+    "Year": 2025,
+    "Author": "Mohammadtaghi Badakhshan, Guiwen Luo, Tanmayi Jandhyala, Guang Gong",
+    "Keywords": "Computer Science; Zero-Knowledge Proof, Post-Quantum, Privacy-Preserving Application",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-81824-0_16"
+  },
+  {
+    "Paper No.": 616,
+    "University": "Waterloo",
+    "Title": "A New Class of Trapdoor Verifiable Delay Functions",
+    "Year": 2023,
+    "Author": "Ahmed Zawia, M. Anwar Hasan",
+    "Keywords": "Computer Science; Delay Primitives, Verifiable Delay Functions, Delay Encryption, Time-Lock Puzzle",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-30122-3_5"
+  },
+  {
+    "Paper No.": 617,
+    "University": "Waterloo",
+    "Title": "ChronoCloak: An Integrated Solution for Mitigating Premature Disclosure in Oblivious Digital Dissemination",
+    "Year": 2024,
+    "Author": "Ahmed Zawia, M. Anwar Hasan",
+    "Keywords": "Computer Science; Delay-Based Cryptography, Oblivious Transfer, Trapdoor Verifiable Delay Functions, Time-Lock Puzzles",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-75757-0_12"
+  },
+  {
+    "Paper No.": 618,
+    "University": "Waterloo",
+    "Title": "A code-based hybrid signcryption scheme",
+    "Year": 2023,
+    "Author": "Jean Belo Klamti, M. Anwarul Hasan",
+    "Keywords": "Computer Science; Coding Theory, Signature Scheme, Public-Key Cryptography, Code-Based Cryptography, Signcryption",
+    "Link": "https://www.degruyterbrill.com/document/doi/10.1515/jmc-2022-0002/html"
+  },
+  {
+    "Paper No.": 619,
+    "University": "Waterloo",
+    "Title": "Speeding-Up Parallel Computation of Large Smooth-Degree Isogeny Using Precedence-Constrained Scheduling",
+    "Year": 2022,
+    "Author": "Kittiphon Phalakarn, Vorapong Suppakitpaisarn, M. Anwar Hasan",
+    "Keywords": "Computer Science; SIDH, Isogeny-Based Cryptography, Parallel Computing, Precedence-Constrained Scheduling",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-22301-3_16"
+  },
+  {
+    "Paper No.": 620,
+    "University": "Waterloo",
+    "Title": "Vectorized and Parallel Computation of Large Smooth-Degree Isogenies using Precedence-Constrained Scheduling",
+    "Year": 2023,
+    "Author": "Kittiphon Phalakarn, Vorapong Suppakitpaisarn, Francisco Rodríguez-Henríquez, M. Anwar Hasan",
+    "Keywords": "Computer Science; Isogeny-Based Cryptography, Isogeny Computation, Software Optimization, Vectorization, Parallel Computing, Precedence-Constrained Scheduling",
+    "Link": "https://tches.iacr.org/index.php/TCHES/article/view/10963"
+  },
+  {
+    "Paper No.": 621,
+    "University": "Waterloo",
+    "Title": "Streamlining CSIDH: Cost-Effective Strategies for Group Actions Evaluation",
+    "Year": 2024,
+    "Author": "Ahmed Zawia, M. Anwar Hasan",
+    "Keywords": "Computer Science; Post-Quantum Cryptography, Isogeny-Based Cryptography, CSIDH, Constant-Time Algorithms, Digital Signatures, Zero-Knowledge Proofs",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-75764-8_6"
+  },
+  {
+    "Paper No.": 622,
+    "University": "Waterloo",
+    "Title": "CountChain: A Decentralized Oracle Network for Counting Systems",
+    "Year": 2024,
+    "Author": "Behkish Nassirzadeh, Stefanos Leonardos, Albert Heinle, Anwar Hasan, Vijay Ganesh",
+    "Keywords": "Computer Science; Counting System, Blockchain, Decentralized Oracle, Smart Contract",
+    "Link": "https://www.computer.org/csdl/proceedings-article/blockchain/2024/515900a324/20l5lOKa1ZC"
+  },
+  {
+    "Paper No.": 623,
+    "University": "Waterloo",
+    "Title": "AdChain: Decentralized Header Bidding",
+    "Year": 2024,
+    "Author": "Behkish Nassirzadeh, Albert Heinle, Stefanos Leonardos, Anwar Hasan & Vijay Ganesh",
+    "Keywords": "Computer Science; Header Bidding, Decentralized Oracle, Blockchain, Ad Fraud",
+    "Link": "https://link.springer.com/chapter/10.1007/978-3-031-68974-1_13"
+  },
+  {
+    "Paper No.": 624,
+    "University": "NUS Fintech Lab",
+    "Title": "PSSimPy: A Design Science Approach to Constructing and Implementing a Large-Value Payment System Simulator",
+    "Year": 2024,
+    "Author": "Kenneth See, Hanzholah Shobri, Nicholas Garcia",
+    "Keywords": "Computer Science; CBDC, Simulation, Payment Systems, Design Science Research",
+    "Link": "https://aisel.aisnet.org/icis2024/blockchain/blockchain/10/"
+  },
+  {
+    "Paper No.": 625,
+    "University": "NUS Fintech Lab",
+    "Title": "The Economic Implications of Privacy Dark Patterns (PDPs)",
+    "Year": 2023,
+    "Author": "Dawei Chen, Jungpil Hahn",
+    "Keywords": "Computer Science; Privacy, privacy dark patterns, analytical modeling, users information disclosure",
+    "Link": "https://aisel.aisnet.org/icis2023/cyber_security/cyber_security/1/"
+  },
+  {
+    "Paper No.": 626,
+    "University": "NUS Fintech Lab",
+    "Title": "The Evolution of AI Governance",
+    "Year": 2024,
+    "Author": "Simon Chesterman, Yuting Gao, Jungpil Hahn, Valerie Sticher",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://ieeexplore.ieee.org/document/10660604"
+  },
+  {
+    "Paper No.": 627,
+    "University": "NUS Fintech Lab",
+    "Title": "Understanding decentralization of decision-making power in proof-of-stake blockchains: an agent-based simulation approach",
+    "Year": 2024,
+    "Author": "Christoph Mueller-Bloch, Jonas Valbjørn Andersen, Jason Spasovski, Jungpil Hahn",
+    "Keywords": "Computer Science; Blockchain, Consensus Mechanism, Centralisation, Decentralisation, Decision-Making Power, Governance",
+    "Link": "https://www.tandfonline.com/doi/full/10.1080/0960085X.2022.2125840"
+  },
+  {
+    "Paper No.": 628,
+    "University": "NUS Fintech Lab",
+    "Title": "Meta-Organizational Learning Through Digital Consensus",
+    "Year": 2023,
+    "Author": "Junyi Li, Jungpil Hahn, Giri Tayi",
+    "Keywords": "Computer Science; Decentralized autonomous organizations, organizational design, digital consensus, agentbased simulation",
+    "Link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1114&context=icis2023"
+  },
+  {
+    "Paper No.": 629,
+    "University": "NUS Fintech Lab",
+    "Title": "Crowdlending Behaviors in the Aftermath of a Crisis: Evidence From a Natural Experiment",
+    "Year": 2024,
+    "Author": "Zhiyi Wang, Lusi Yang, Varun Karamshetty, Jungpil Hahn",
+    "Keywords": "Business / Economy / Finance; Online Crowdlending, Disaster Management, Prosocial Motivation and Risk Consideration, Fundraising Objectives, National Culture",
+    "Link": "https://journals.sagepub.com/doi/epub/10.1177/10591478231224931"
+  },
+  {
+    "Paper No.": 630,
+    "University": "Columbia",
+    "Title": "Large Orders in Small Markets: Execution with Endogenous Liquidity Supply",
+    "Year": 2024,
+    "Author": "Agostino Capponi, Albert J. Menkveld, Hongzhong Zhang",
+    "Keywords": "Business / Economy / Finance; large orders, market making, liquidity supply, investors' welfare",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326313"
+  },
+  {
+    "Paper No.": 631,
+    "University": "Columbia",
+    "Title": "A Continuous Time Framework for Sequential Goal-Based Wealth Management",
+    "Year": 2023,
+    "Author": "Agostino Capponi, Yuchong Zhang",
+    "Keywords": "Business / Economy / Finance; goal based wealth management, funding ratios, dynamic programming, consumption",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4121931"
+  },
+  {
+    "Paper No.": 632,
+    "University": "Columbia",
+    "Title": "Proposer-Builder Separation, Payment for Order Flows, and Centralization in Blockchain",
+    "Year": 2024,
+    "Author": "Agostino Capponi, Ruizhe Jia, Sveinn Olafsson",
+    "Keywords": "Multidisciplinary; Maximal extractable value, payment for order flows, order flow auctions, centralization, proposer-builder-separation",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723674"
+  },
+  {
+    "Paper No.": 633,
+    "University": "Columbia",
+    "Title": "Maximal Extractable Value and Allocative Inefficiencies in Public Blockchains",
+    "Year": 2025,
+    "Author": "Agostino Capponi, Ruizhe Jia, Ye Wang",
+    "Keywords": "Multidisciplinary; Allocative Efficiency; Market Design; Blockchain; Maximal Extractable Value; Private Pool",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997796"
+  },
+  {
+    "Paper No.": 634,
+    "University": "Columbia",
+    "Title": "Price Discovery on Decentralized Exchanges",
+    "Year": 2024,
+    "Author": "Agostino Capponi, Ruizhe Jia, Shihao Yu",
+    "Keywords": "Multidisciplinary; price discovery, blockchain fees, decentralized exchanges, informed traders, private information undefined",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236993."
+  },
+  {
+    "Paper No.": 635,
+    "University": "Victoria",
+    "Title": "Tokens and blockchain evidence in international commercial arbitration: its current status?",
+    "Year": 2025,
+    "Author": "Robert Walters",
+    "Keywords": "Multidisciplinary; N/A",
+    "Link": "https://academic.oup.com/arbitration/advance-article-abstract/doi/10.1093/arbint/aiae041/8162491?redirectedFrom=fulltext"
+  },
+  {
+    "Paper No.": 636,
+    "University": "Victoria",
+    "Title": "The Group of Companies Doctrine in International Arbitration: India, Australia, the United States and the United Kingdom",
+    "Year": 2024,
+    "Author": "Robert Walters",
+    "Keywords": "Multidisciplinary; N/A",
+    "Link": "https://research-repository.uwa.edu.au/en/publications/the-group-of-companies-doctrine-in-international-arbitration-indi"
+  },
+  {
+    "Paper No.": 637,
+    "University": "Victoria",
+    "Title": "Robots replacing human arbitrators: the legal dilemma",
+    "Year": 2025,
+    "Author": "Robert Walters",
+    "Keywords": "Computer Science; Robots, Arbitration, Transnational Arbitration",
+    "Link": "https://www.tandfonline.com/doi/full/10.1080/13600834.2024.2408155#abstract"
+  },
+  {
+    "Paper No.": 638,
+    "University": "Victoria",
+    "Title": "Reconciling “Confidentiality” in Data Protection, Cyber Security, Artificial Intelligence in International Arbitration",
+    "Year": 2023,
+    "Author": "Robert Walters, Harsha Rajwanshi",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://www.degruyterbrill.com/document/doi/10.9785/9783504388454-012/html"
+  },
+  {
+    "Paper No.": 639,
+    "University": "Victoria",
+    "Title": "Cybersecurity, Data Governance and Directors Fiduciary Duty: An Expanding Obligation",
+    "Year": 2023,
+    "Author": "Robert Walters",
+    "Keywords": "Computer Science; Cybersecurity, Data, Directors Duty",
+    "Link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4632091"
+  },
+  {
+    "Paper No.": 640,
+    "University": "U Penn",
+    "Title": "DeFi Attacks and the Role of DAOs",
+    "Year": 2024,
+    "Author": "Bianca Kremer, Kanye Ye Wang",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://viewer.content-select.com/pdf/viewer?id=1&id_type=isbn&identifiers=9783161637018&signature=8b2c79abeb77146af4574ecf9f2063adc18c1e56&ses"
+  },
+  {
+    "Paper No.": 641,
+    "University": "University of North Carolina at Chapel Hill",
+    "Title": "On Quantum Ambiguity and Potential Exponential Computational Speed-Ups to Solving Dynamic Asset Pricing Models",
+    "Year": 2024,
+    "Author": "Eric Ghysels, Jack Morgan",
+    "Keywords": "Multidisciplinary; N/A",
+    "Link": "https://arxiv.org/pdf/2405.01479"
+  },
+  {
+    "Paper No.": 642,
+    "University": "University of North Carolina at Chapel Hill",
+    "Title": "An Enhanced Hybrid HHL Algorithm",
+    "Year": 2024,
+    "Author": "Jack Morgan, Eric Ghysels, Hamed Mohammadbagherpoor",
+    "Keywords": "Computer Science; N/A",
+    "Link": "https://arxiv.org/abs/2404.10103"
   }
 ]
