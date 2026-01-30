@@ -5086,7 +5086,7 @@
   },
   {
     "Paper No.": 569,
-    "University": "Nicosia",
+    "University": "University of Nicosia",
     "Title": "Validating the Blockchain Benchmarking Framework Through Controlled Deployments of XRPL and Ethereum",
     "Year": 2024,
     "Author": "Marios Touloupou, Klitos Christodoulou, Marinos Themistocleous",
@@ -5158,7 +5158,7 @@
   },
   {
     "Paper No.": 577,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Do Behavioral Frictions Prevent Firms from Adopting Profitable Opportunities?",
     "Year": 2025,
     "Author": "Paul Gertler, Sean Higgins, Ulrike Malmendier, Waldo Ojeda",
@@ -5167,7 +5167,7 @@
   },
   {
     "Paper No.": 578,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "FinTech Lending to Borrowers with No Credit History",
     "Year": 2025,
     "Author": "Laura Chioda, Paul Gertler, Sean Higgins, Paolina Medina",
@@ -5176,7 +5176,7 @@
   },
   {
     "Paper No.": 579,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Mortgage Policies and their Effects on Racial Segregation and Upward Mobility",
     "Year": 2022,
     "Author": "Nirupama Kulkarni, Ulrike Malmendier",
@@ -5185,7 +5185,7 @@
   },
   {
     "Paper No.": 580,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Reinforcing RCTs with Multiple Priors while Learning about External Validity",
     "Year": 2024,
     "Author": "Frederico Finan, Demian Pouzo",
@@ -5194,7 +5194,7 @@
   },
   {
     "Paper No.": 581,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Expanding Perspectives on Data Privacy: Insights from Rural Togo",
     "Year": 2024,
     "Author": "Zoe Kahn, Meyebinesso Farida Carelle Pere, Emily Aiken, Nitin Kohli, Joshua E. Blumenstock",
@@ -5203,7 +5203,7 @@
   },
   {
     "Paper No.": 582,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Enabling Humanitarian Applications with Targeted Differential Privacy",
     "Year": 2024,
     "Author": "Nitin Kohli, Joshua Blumenstock",
@@ -5212,7 +5212,7 @@
   },
   {
     "Paper No.": 583,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Dynastic Home Equity",
     "Year": 2025,
     "Author": "Matteo Benetton, Marianna Kudlyak, John Mondragon",
@@ -5221,7 +5221,7 @@
   },
   {
     "Paper No.": 584,
-    "University": "U.C. Berkeley",
+    "University": "University of California, Berkeley",
     "Title": "Revolving Credit to SMEs: The Role of Business Credit Cards",
     "Year": 2024,
     "Author": "Matteo Benetton, Greg Buchak",
@@ -5230,7 +5230,7 @@
   },
   {
     "Paper No.": 585,
-    "University": "TU Delft",
+    "University": "Delft University of Technology",
     "Title": "A Benchmark Framework for Byzantine Fault Tolerance Testing Algorithms",
     "Year": 2025,
     "Author": "João Miguel Louro Neto, Burcu Kulahcioglu Ozkan",
@@ -5239,7 +5239,7 @@
   },
   {
     "Paper No.": 586,
-    "University": "TU Delft",
+    "University": "Delft University of Technology",
     "Title": "Rocket: A System-Level Fuzz-Testing Framework for the XRPL Consensus Algorithm",
     "Year": 2025,
     "Author": "Wishaal Kanhai, Ivar van Loon, Yuraj Mangalgi, Thijs Van der Valk, Lucas Witte, Annibale Panichella, Mitchell Olsthoorn, Burcu Kulahcioglu Ozkan",
@@ -5248,7 +5248,7 @@
   },
   {
     "Paper No.": 587,
-    "University": "EUI",
+    "University": "European University Institute",
     "Title": "Empowering personal data sovereignty in hyper-realistic Metaverse avatars through blockchain technology",
     "Year": 2025,
     "Author": "Natalia Menéndez González",
@@ -5401,7 +5401,7 @@
   },
   {
     "Paper No.": 605,
-    "University": "EUI",
+    "University": "European University Institute",
     "Title": "Blockchain for avatar data governance: privacy- enhancing Metaverse?",
     "Year": 2024,
     "Author": "Natalia Menéndez González",
@@ -5410,7 +5410,7 @@
   },
   {
     "Paper No.": 606,
-    "University": "EUI",
+    "University": "European University Institute",
     "Title": "Blockchain interoperability : implications for EU competition law and data protection law",
     "Year": 2025,
     "Author": "Klaudia Majcher, Marco Botta",
@@ -5716,7 +5716,7 @@
   },
   {
     "Paper No.": 640,
-    "University": "U Penn",
+    "University": "University of Pennsylvania",
     "Title": "DeFi Attacks and the Role of DAOs",
     "Year": 2024,
     "Author": "Bianca Kremer, Kanye Ye Wang",
@@ -6355,7 +6355,7 @@
   },
   {
     "Paper No.": 714,
-    "University": "Trinity",
+    "University": "Trinity College Dublin",
     "Title": "Implementation of Privacy-Preserving Identifiers for the Secure Storage of Electronic Health Records on the Ethereum Blockchain",
     "Year": 2025,
     "Author": "Swati Kumari, Hitesh Tewari",
@@ -6364,7 +6364,7 @@
   },
   {
     "Paper No.": 718,
-    "University": "Trinity",
+    "University": "Trinity College Dublin",
     "Title": "A Blockchain-Native PKI: Secure X.509 Certificate Management on the XRP Ledger",
     "Year": 2025,
     "Author": "Harsha Vardhan, Prab Hiranayachatri, Atharva Lele, Hitesh Tewari",
@@ -6373,7 +6373,7 @@
   },
   {
     "Paper No.": 719,
-    "University": "Trinity",
+    "University": "Trinity College Dublin",
     "Title": "The Zcash Protocol Explained: A Journey into Privacy-Preserving Cryptography",
     "Year": 2025,
     "Author": "Atharva Lele, Hitesh Tewari",
